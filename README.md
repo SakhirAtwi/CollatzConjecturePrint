@@ -1,11 +1,11 @@
 # CollatzConjecturePrint
 
-C++ program to print text file for collatz conjecture for any range of number a-b.
+C++ program to print text file for collatz conjecture for any range of numbers a-b.
 
 # Description
 
-C++ program to test collatz conjecture for any range of numbers, program outputs
-a text file in the same directory as your exe file. The program is pretty straight forward and you can tweek it for any "an + b" type problems. The output of the text can be used to plot well formatted graphs in Matlab or anything like that for further insights of the conjecture. Just make tweeks to export numbers in text file not strings and you are good
+C++ program to test collatz conjecture for any range of numbers, the program outputs
+a text file in the same directory as your exe file. It is pretty straight forward and you can tweek it for any "an + b" type problems. The output of the text can be used to plot well formatted graphs in Matlab or anything like that for further insights of the conjecture. Just make tweeks to export numbers in text file not strings and you are good
 to go for plotting :)
 
 For reference:
