@@ -1,0 +1,3845 @@
+The data for 3n + 1 for 1 is:
+The values are obtained for 1.
+Number after 1 turns is :4
+Number after 2 turns is :2
+Number after 3 turns is :1
+Total number of Even Steps were:2
+Total number of Odd Steps were:1
+Total num of Steps were:3
+Data ended here....
+
+The data for 3n + 1 for 2 is:
+The values are obtained for 2.
+Number after 1 turns is :1
+Total number of Even Steps were:1
+Total number of Odd Steps were:0
+Total num of Steps were:1
+Data ended here....
+
+The data for 3n + 1 for 3 is:
+The values are obtained for 3.
+Number after 1 turns is :10
+Number after 2 turns is :5
+Number after 3 turns is :16
+Number after 4 turns is :8
+Number after 5 turns is :4
+Number after 6 turns is :2
+Number after 7 turns is :1
+Total number of Even Steps were:5
+Total number of Odd Steps were:2
+Total num of Steps were:7
+Data ended here....
+
+The data for 3n + 1 for 4 is:
+The values are obtained for 4.
+Number after 1 turns is :2
+Number after 2 turns is :1
+Total number of Even Steps were:2
+Total number of Odd Steps were:0
+Total num of Steps were:2
+Data ended here....
+
+The data for 3n + 1 for 5 is:
+The values are obtained for 5.
+Number after 1 turns is :16
+Number after 2 turns is :8
+Number after 3 turns is :4
+Number after 4 turns is :2
+Number after 5 turns is :1
+Total number of Even Steps were:4
+Total number of Odd Steps were:1
+Total num of Steps were:5
+Data ended here....
+
+The data for 3n + 1 for 6 is:
+The values are obtained for 6.
+Number after 1 turns is :3
+Number after 2 turns is :10
+Number after 3 turns is :5
+Number after 4 turns is :16
+Number after 5 turns is :8
+Number after 6 turns is :4
+Number after 7 turns is :2
+Number after 8 turns is :1
+Total number of Even Steps were:6
+Total number of Odd Steps were:2
+Total num of Steps were:8
+Data ended here....
+
+The data for 3n + 1 for 7 is:
+The values are obtained for 7.
+Number after 1 turns is :22
+Number after 2 turns is :11
+Number after 3 turns is :34
+Number after 4 turns is :17
+Number after 5 turns is :52
+Number after 6 turns is :26
+Number after 7 turns is :13
+Number after 8 turns is :40
+Number after 9 turns is :20
+Number after 10 turns is :10
+Number after 11 turns is :5
+Number after 12 turns is :16
+Number after 13 turns is :8
+Number after 14 turns is :4
+Number after 15 turns is :2
+Number after 16 turns is :1
+Total number of Even Steps were:11
+Total number of Odd Steps were:5
+Total num of Steps were:16
+Data ended here....
+
+The data for 3n + 1 for 8 is:
+The values are obtained for 8.
+Number after 1 turns is :4
+Number after 2 turns is :2
+Number after 3 turns is :1
+Total number of Even Steps were:3
+Total number of Odd Steps were:0
+Total num of Steps were:3
+Data ended here....
+
+The data for 3n + 1 for 9 is:
+The values are obtained for 9.
+Number after 1 turns is :28
+Number after 2 turns is :14
+Number after 3 turns is :7
+Number after 4 turns is :22
+Number after 5 turns is :11
+Number after 6 turns is :34
+Number after 7 turns is :17
+Number after 8 turns is :52
+Number after 9 turns is :26
+Number after 10 turns is :13
+Number after 11 turns is :40
+Number after 12 turns is :20
+Number after 13 turns is :10
+Number after 14 turns is :5
+Number after 15 turns is :16
+Number after 16 turns is :8
+Number after 17 turns is :4
+Number after 18 turns is :2
+Number after 19 turns is :1
+Total number of Even Steps were:13
+Total number of Odd Steps were:6
+Total num of Steps were:19
+Data ended here....
+
+The data for 3n + 1 for 10 is:
+The values are obtained for 10.
+Number after 1 turns is :5
+Number after 2 turns is :16
+Number after 3 turns is :8
+Number after 4 turns is :4
+Number after 5 turns is :2
+Number after 6 turns is :1
+Total number of Even Steps were:5
+Total number of Odd Steps were:1
+Total num of Steps were:6
+Data ended here....
+
+The data for 3n + 1 for 11 is:
+The values are obtained for 11.
+Number after 1 turns is :34
+Number after 2 turns is :17
+Number after 3 turns is :52
+Number after 4 turns is :26
+Number after 5 turns is :13
+Number after 6 turns is :40
+Number after 7 turns is :20
+Number after 8 turns is :10
+Number after 9 turns is :5
+Number after 10 turns is :16
+Number after 11 turns is :8
+Number after 12 turns is :4
+Number after 13 turns is :2
+Number after 14 turns is :1
+Total number of Even Steps were:10
+Total number of Odd Steps were:4
+Total num of Steps were:14
+Data ended here....
+
+The data for 3n + 1 for 12 is:
+The values are obtained for 12.
+Number after 1 turns is :6
+Number after 2 turns is :3
+Number after 3 turns is :10
+Number after 4 turns is :5
+Number after 5 turns is :16
+Number after 6 turns is :8
+Number after 7 turns is :4
+Number after 8 turns is :2
+Number after 9 turns is :1
+Total number of Even Steps were:7
+Total number of Odd Steps were:2
+Total num of Steps were:9
+Data ended here....
+
+The data for 3n + 1 for 13 is:
+The values are obtained for 13.
+Number after 1 turns is :40
+Number after 2 turns is :20
+Number after 3 turns is :10
+Number after 4 turns is :5
+Number after 5 turns is :16
+Number after 6 turns is :8
+Number after 7 turns is :4
+Number after 8 turns is :2
+Number after 9 turns is :1
+Total number of Even Steps were:7
+Total number of Odd Steps were:2
+Total num of Steps were:9
+Data ended here....
+
+The data for 3n + 1 for 14 is:
+The values are obtained for 14.
+Number after 1 turns is :7
+Number after 2 turns is :22
+Number after 3 turns is :11
+Number after 4 turns is :34
+Number after 5 turns is :17
+Number after 6 turns is :52
+Number after 7 turns is :26
+Number after 8 turns is :13
+Number after 9 turns is :40
+Number after 10 turns is :20
+Number after 11 turns is :10
+Number after 12 turns is :5
+Number after 13 turns is :16
+Number after 14 turns is :8
+Number after 15 turns is :4
+Number after 16 turns is :2
+Number after 17 turns is :1
+Total number of Even Steps were:12
+Total number of Odd Steps were:5
+Total num of Steps were:17
+Data ended here....
+
+The data for 3n + 1 for 15 is:
+The values are obtained for 15.
+Number after 1 turns is :46
+Number after 2 turns is :23
+Number after 3 turns is :70
+Number after 4 turns is :35
+Number after 5 turns is :106
+Number after 6 turns is :53
+Number after 7 turns is :160
+Number after 8 turns is :80
+Number after 9 turns is :40
+Number after 10 turns is :20
+Number after 11 turns is :10
+Number after 12 turns is :5
+Number after 13 turns is :16
+Number after 14 turns is :8
+Number after 15 turns is :4
+Number after 16 turns is :2
+Number after 17 turns is :1
+Total number of Even Steps were:12
+Total number of Odd Steps were:5
+Total num of Steps were:17
+Data ended here....
+
+The data for 3n + 1 for 16 is:
+The values are obtained for 16.
+Number after 1 turns is :8
+Number after 2 turns is :4
+Number after 3 turns is :2
+Number after 4 turns is :1
+Total number of Even Steps were:4
+Total number of Odd Steps were:0
+Total num of Steps were:4
+Data ended here....
+
+The data for 3n + 1 for 17 is:
+The values are obtained for 17.
+Number after 1 turns is :52
+Number after 2 turns is :26
+Number after 3 turns is :13
+Number after 4 turns is :40
+Number after 5 turns is :20
+Number after 6 turns is :10
+Number after 7 turns is :5
+Number after 8 turns is :16
+Number after 9 turns is :8
+Number after 10 turns is :4
+Number after 11 turns is :2
+Number after 12 turns is :1
+Total number of Even Steps were:9
+Total number of Odd Steps were:3
+Total num of Steps were:12
+Data ended here....
+
+The data for 3n + 1 for 18 is:
+The values are obtained for 18.
+Number after 1 turns is :9
+Number after 2 turns is :28
+Number after 3 turns is :14
+Number after 4 turns is :7
+Number after 5 turns is :22
+Number after 6 turns is :11
+Number after 7 turns is :34
+Number after 8 turns is :17
+Number after 9 turns is :52
+Number after 10 turns is :26
+Number after 11 turns is :13
+Number after 12 turns is :40
+Number after 13 turns is :20
+Number after 14 turns is :10
+Number after 15 turns is :5
+Number after 16 turns is :16
+Number after 17 turns is :8
+Number after 18 turns is :4
+Number after 19 turns is :2
+Number after 20 turns is :1
+Total number of Even Steps were:14
+Total number of Odd Steps were:6
+Total num of Steps were:20
+Data ended here....
+
+The data for 3n + 1 for 19 is:
+The values are obtained for 19.
+Number after 1 turns is :58
+Number after 2 turns is :29
+Number after 3 turns is :88
+Number after 4 turns is :44
+Number after 5 turns is :22
+Number after 6 turns is :11
+Number after 7 turns is :34
+Number after 8 turns is :17
+Number after 9 turns is :52
+Number after 10 turns is :26
+Number after 11 turns is :13
+Number after 12 turns is :40
+Number after 13 turns is :20
+Number after 14 turns is :10
+Number after 15 turns is :5
+Number after 16 turns is :16
+Number after 17 turns is :8
+Number after 18 turns is :4
+Number after 19 turns is :2
+Number after 20 turns is :1
+Total number of Even Steps were:14
+Total number of Odd Steps were:6
+Total num of Steps were:20
+Data ended here....
+
+The data for 3n + 1 for 20 is:
+The values are obtained for 20.
+Number after 1 turns is :10
+Number after 2 turns is :5
+Number after 3 turns is :16
+Number after 4 turns is :8
+Number after 5 turns is :4
+Number after 6 turns is :2
+Number after 7 turns is :1
+Total number of Even Steps were:6
+Total number of Odd Steps were:1
+Total num of Steps were:7
+Data ended here....
+
+The data for 3n + 1 for 21 is:
+The values are obtained for 21.
+Number after 1 turns is :64
+Number after 2 turns is :32
+Number after 3 turns is :16
+Number after 4 turns is :8
+Number after 5 turns is :4
+Number after 6 turns is :2
+Number after 7 turns is :1
+Total number of Even Steps were:6
+Total number of Odd Steps were:1
+Total num of Steps were:7
+Data ended here....
+
+The data for 3n + 1 for 22 is:
+The values are obtained for 22.
+Number after 1 turns is :11
+Number after 2 turns is :34
+Number after 3 turns is :17
+Number after 4 turns is :52
+Number after 5 turns is :26
+Number after 6 turns is :13
+Number after 7 turns is :40
+Number after 8 turns is :20
+Number after 9 turns is :10
+Number after 10 turns is :5
+Number after 11 turns is :16
+Number after 12 turns is :8
+Number after 13 turns is :4
+Number after 14 turns is :2
+Number after 15 turns is :1
+Total number of Even Steps were:11
+Total number of Odd Steps were:4
+Total num of Steps were:15
+Data ended here....
+
+The data for 3n + 1 for 23 is:
+The values are obtained for 23.
+Number after 1 turns is :70
+Number after 2 turns is :35
+Number after 3 turns is :106
+Number after 4 turns is :53
+Number after 5 turns is :160
+Number after 6 turns is :80
+Number after 7 turns is :40
+Number after 8 turns is :20
+Number after 9 turns is :10
+Number after 10 turns is :5
+Number after 11 turns is :16
+Number after 12 turns is :8
+Number after 13 turns is :4
+Number after 14 turns is :2
+Number after 15 turns is :1
+Total number of Even Steps were:11
+Total number of Odd Steps were:4
+Total num of Steps were:15
+Data ended here....
+
+The data for 3n + 1 for 24 is:
+The values are obtained for 24.
+Number after 1 turns is :12
+Number after 2 turns is :6
+Number after 3 turns is :3
+Number after 4 turns is :10
+Number after 5 turns is :5
+Number after 6 turns is :16
+Number after 7 turns is :8
+Number after 8 turns is :4
+Number after 9 turns is :2
+Number after 10 turns is :1
+Total number of Even Steps were:8
+Total number of Odd Steps were:2
+Total num of Steps were:10
+Data ended here....
+
+The data for 3n + 1 for 25 is:
+The values are obtained for 25.
+Number after 1 turns is :76
+Number after 2 turns is :38
+Number after 3 turns is :19
+Number after 4 turns is :58
+Number after 5 turns is :29
+Number after 6 turns is :88
+Number after 7 turns is :44
+Number after 8 turns is :22
+Number after 9 turns is :11
+Number after 10 turns is :34
+Number after 11 turns is :17
+Number after 12 turns is :52
+Number after 13 turns is :26
+Number after 14 turns is :13
+Number after 15 turns is :40
+Number after 16 turns is :20
+Number after 17 turns is :10
+Number after 18 turns is :5
+Number after 19 turns is :16
+Number after 20 turns is :8
+Number after 21 turns is :4
+Number after 22 turns is :2
+Number after 23 turns is :1
+Total number of Even Steps were:16
+Total number of Odd Steps were:7
+Total num of Steps were:23
+Data ended here....
+
+The data for 3n + 1 for 26 is:
+The values are obtained for 26.
+Number after 1 turns is :13
+Number after 2 turns is :40
+Number after 3 turns is :20
+Number after 4 turns is :10
+Number after 5 turns is :5
+Number after 6 turns is :16
+Number after 7 turns is :8
+Number after 8 turns is :4
+Number after 9 turns is :2
+Number after 10 turns is :1
+Total number of Even Steps were:8
+Total number of Odd Steps were:2
+Total num of Steps were:10
+Data ended here....
+
+The data for 3n + 1 for 27 is:
+The values are obtained for 27.
+Number after 1 turns is :82
+Number after 2 turns is :41
+Number after 3 turns is :124
+Number after 4 turns is :62
+Number after 5 turns is :31
+Number after 6 turns is :94
+Number after 7 turns is :47
+Number after 8 turns is :142
+Number after 9 turns is :71
+Number after 10 turns is :214
+Number after 11 turns is :107
+Number after 12 turns is :322
+Number after 13 turns is :161
+Number after 14 turns is :484
+Number after 15 turns is :242
+Number after 16 turns is :121
+Number after 17 turns is :364
+Number after 18 turns is :182
+Number after 19 turns is :91
+Number after 20 turns is :274
+Number after 21 turns is :137
+Number after 22 turns is :412
+Number after 23 turns is :206
+Number after 24 turns is :103
+Number after 25 turns is :310
+Number after 26 turns is :155
+Number after 27 turns is :466
+Number after 28 turns is :233
+Number after 29 turns is :700
+Number after 30 turns is :350
+Number after 31 turns is :175
+Number after 32 turns is :526
+Number after 33 turns is :263
+Number after 34 turns is :790
+Number after 35 turns is :395
+Number after 36 turns is :1186
+Number after 37 turns is :593
+Number after 38 turns is :1780
+Number after 39 turns is :890
+Number after 40 turns is :445
+Number after 41 turns is :1336
+Number after 42 turns is :668
+Number after 43 turns is :334
+Number after 44 turns is :167
+Number after 45 turns is :502
+Number after 46 turns is :251
+Number after 47 turns is :754
+Number after 48 turns is :377
+Number after 49 turns is :1132
+Number after 50 turns is :566
+Number after 51 turns is :283
+Number after 52 turns is :850
+Number after 53 turns is :425
+Number after 54 turns is :1276
+Number after 55 turns is :638
+Number after 56 turns is :319
+Number after 57 turns is :958
+Number after 58 turns is :479
+Number after 59 turns is :1438
+Number after 60 turns is :719
+Number after 61 turns is :2158
+Number after 62 turns is :1079
+Number after 63 turns is :3238
+Number after 64 turns is :1619
+Number after 65 turns is :4858
+Number after 66 turns is :2429
+Number after 67 turns is :7288
+Number after 68 turns is :3644
+Number after 69 turns is :1822
+Number after 70 turns is :911
+Number after 71 turns is :2734
+Number after 72 turns is :1367
+Number after 73 turns is :4102
+Number after 74 turns is :2051
+Number after 75 turns is :6154
+Number after 76 turns is :3077
+Number after 77 turns is :9232
+Number after 78 turns is :4616
+Number after 79 turns is :2308
+Number after 80 turns is :1154
+Number after 81 turns is :577
+Number after 82 turns is :1732
+Number after 83 turns is :866
+Number after 84 turns is :433
+Number after 85 turns is :1300
+Number after 86 turns is :650
+Number after 87 turns is :325
+Number after 88 turns is :976
+Number after 89 turns is :488
+Number after 90 turns is :244
+Number after 91 turns is :122
+Number after 92 turns is :61
+Number after 93 turns is :184
+Number after 94 turns is :92
+Number after 95 turns is :46
+Number after 96 turns is :23
+Number after 97 turns is :70
+Number after 98 turns is :35
+Number after 99 turns is :106
+Number after 100 turns is :53
+Number after 101 turns is :160
+Number after 102 turns is :80
+Number after 103 turns is :40
+Number after 104 turns is :20
+Number after 105 turns is :10
+Number after 106 turns is :5
+Number after 107 turns is :16
+Number after 108 turns is :8
+Number after 109 turns is :4
+Number after 110 turns is :2
+Number after 111 turns is :1
+Total number of Even Steps were:70
+Total number of Odd Steps were:41
+Total num of Steps were:111
+Data ended here....
+
+The data for 3n + 1 for 28 is:
+The values are obtained for 28.
+Number after 1 turns is :14
+Number after 2 turns is :7
+Number after 3 turns is :22
+Number after 4 turns is :11
+Number after 5 turns is :34
+Number after 6 turns is :17
+Number after 7 turns is :52
+Number after 8 turns is :26
+Number after 9 turns is :13
+Number after 10 turns is :40
+Number after 11 turns is :20
+Number after 12 turns is :10
+Number after 13 turns is :5
+Number after 14 turns is :16
+Number after 15 turns is :8
+Number after 16 turns is :4
+Number after 17 turns is :2
+Number after 18 turns is :1
+Total number of Even Steps were:13
+Total number of Odd Steps were:5
+Total num of Steps were:18
+Data ended here....
+
+The data for 3n + 1 for 29 is:
+The values are obtained for 29.
+Number after 1 turns is :88
+Number after 2 turns is :44
+Number after 3 turns is :22
+Number after 4 turns is :11
+Number after 5 turns is :34
+Number after 6 turns is :17
+Number after 7 turns is :52
+Number after 8 turns is :26
+Number after 9 turns is :13
+Number after 10 turns is :40
+Number after 11 turns is :20
+Number after 12 turns is :10
+Number after 13 turns is :5
+Number after 14 turns is :16
+Number after 15 turns is :8
+Number after 16 turns is :4
+Number after 17 turns is :2
+Number after 18 turns is :1
+Total number of Even Steps were:13
+Total number of Odd Steps were:5
+Total num of Steps were:18
+Data ended here....
+
+The data for 3n + 1 for 30 is:
+The values are obtained for 30.
+Number after 1 turns is :15
+Number after 2 turns is :46
+Number after 3 turns is :23
+Number after 4 turns is :70
+Number after 5 turns is :35
+Number after 6 turns is :106
+Number after 7 turns is :53
+Number after 8 turns is :160
+Number after 9 turns is :80
+Number after 10 turns is :40
+Number after 11 turns is :20
+Number after 12 turns is :10
+Number after 13 turns is :5
+Number after 14 turns is :16
+Number after 15 turns is :8
+Number after 16 turns is :4
+Number after 17 turns is :2
+Number after 18 turns is :1
+Total number of Even Steps were:13
+Total number of Odd Steps were:5
+Total num of Steps were:18
+Data ended here....
+
+The data for 3n + 1 for 31 is:
+The values are obtained for 31.
+Number after 1 turns is :94
+Number after 2 turns is :47
+Number after 3 turns is :142
+Number after 4 turns is :71
+Number after 5 turns is :214
+Number after 6 turns is :107
+Number after 7 turns is :322
+Number after 8 turns is :161
+Number after 9 turns is :484
+Number after 10 turns is :242
+Number after 11 turns is :121
+Number after 12 turns is :364
+Number after 13 turns is :182
+Number after 14 turns is :91
+Number after 15 turns is :274
+Number after 16 turns is :137
+Number after 17 turns is :412
+Number after 18 turns is :206
+Number after 19 turns is :103
+Number after 20 turns is :310
+Number after 21 turns is :155
+Number after 22 turns is :466
+Number after 23 turns is :233
+Number after 24 turns is :700
+Number after 25 turns is :350
+Number after 26 turns is :175
+Number after 27 turns is :526
+Number after 28 turns is :263
+Number after 29 turns is :790
+Number after 30 turns is :395
+Number after 31 turns is :1186
+Number after 32 turns is :593
+Number after 33 turns is :1780
+Number after 34 turns is :890
+Number after 35 turns is :445
+Number after 36 turns is :1336
+Number after 37 turns is :668
+Number after 38 turns is :334
+Number after 39 turns is :167
+Number after 40 turns is :502
+Number after 41 turns is :251
+Number after 42 turns is :754
+Number after 43 turns is :377
+Number after 44 turns is :1132
+Number after 45 turns is :566
+Number after 46 turns is :283
+Number after 47 turns is :850
+Number after 48 turns is :425
+Number after 49 turns is :1276
+Number after 50 turns is :638
+Number after 51 turns is :319
+Number after 52 turns is :958
+Number after 53 turns is :479
+Number after 54 turns is :1438
+Number after 55 turns is :719
+Number after 56 turns is :2158
+Number after 57 turns is :1079
+Number after 58 turns is :3238
+Number after 59 turns is :1619
+Number after 60 turns is :4858
+Number after 61 turns is :2429
+Number after 62 turns is :7288
+Number after 63 turns is :3644
+Number after 64 turns is :1822
+Number after 65 turns is :911
+Number after 66 turns is :2734
+Number after 67 turns is :1367
+Number after 68 turns is :4102
+Number after 69 turns is :2051
+Number after 70 turns is :6154
+Number after 71 turns is :3077
+Number after 72 turns is :9232
+Number after 73 turns is :4616
+Number after 74 turns is :2308
+Number after 75 turns is :1154
+Number after 76 turns is :577
+Number after 77 turns is :1732
+Number after 78 turns is :866
+Number after 79 turns is :433
+Number after 80 turns is :1300
+Number after 81 turns is :650
+Number after 82 turns is :325
+Number after 83 turns is :976
+Number after 84 turns is :488
+Number after 85 turns is :244
+Number after 86 turns is :122
+Number after 87 turns is :61
+Number after 88 turns is :184
+Number after 89 turns is :92
+Number after 90 turns is :46
+Number after 91 turns is :23
+Number after 92 turns is :70
+Number after 93 turns is :35
+Number after 94 turns is :106
+Number after 95 turns is :53
+Number after 96 turns is :160
+Number after 97 turns is :80
+Number after 98 turns is :40
+Number after 99 turns is :20
+Number after 100 turns is :10
+Number after 101 turns is :5
+Number after 102 turns is :16
+Number after 103 turns is :8
+Number after 104 turns is :4
+Number after 105 turns is :2
+Number after 106 turns is :1
+Total number of Even Steps were:67
+Total number of Odd Steps were:39
+Total num of Steps were:106
+Data ended here....
+
+The data for 3n + 1 for 32 is:
+The values are obtained for 32.
+Number after 1 turns is :16
+Number after 2 turns is :8
+Number after 3 turns is :4
+Number after 4 turns is :2
+Number after 5 turns is :1
+Total number of Even Steps were:5
+Total number of Odd Steps were:0
+Total num of Steps were:5
+Data ended here....
+
+The data for 3n + 1 for 33 is:
+The values are obtained for 33.
+Number after 1 turns is :100
+Number after 2 turns is :50
+Number after 3 turns is :25
+Number after 4 turns is :76
+Number after 5 turns is :38
+Number after 6 turns is :19
+Number after 7 turns is :58
+Number after 8 turns is :29
+Number after 9 turns is :88
+Number after 10 turns is :44
+Number after 11 turns is :22
+Number after 12 turns is :11
+Number after 13 turns is :34
+Number after 14 turns is :17
+Number after 15 turns is :52
+Number after 16 turns is :26
+Number after 17 turns is :13
+Number after 18 turns is :40
+Number after 19 turns is :20
+Number after 20 turns is :10
+Number after 21 turns is :5
+Number after 22 turns is :16
+Number after 23 turns is :8
+Number after 24 turns is :4
+Number after 25 turns is :2
+Number after 26 turns is :1
+Total number of Even Steps were:18
+Total number of Odd Steps were:8
+Total num of Steps were:26
+Data ended here....
+
+The data for 3n + 1 for 34 is:
+The values are obtained for 34.
+Number after 1 turns is :17
+Number after 2 turns is :52
+Number after 3 turns is :26
+Number after 4 turns is :13
+Number after 5 turns is :40
+Number after 6 turns is :20
+Number after 7 turns is :10
+Number after 8 turns is :5
+Number after 9 turns is :16
+Number after 10 turns is :8
+Number after 11 turns is :4
+Number after 12 turns is :2
+Number after 13 turns is :1
+Total number of Even Steps were:10
+Total number of Odd Steps were:3
+Total num of Steps were:13
+Data ended here....
+
+The data for 3n + 1 for 35 is:
+The values are obtained for 35.
+Number after 1 turns is :106
+Number after 2 turns is :53
+Number after 3 turns is :160
+Number after 4 turns is :80
+Number after 5 turns is :40
+Number after 6 turns is :20
+Number after 7 turns is :10
+Number after 8 turns is :5
+Number after 9 turns is :16
+Number after 10 turns is :8
+Number after 11 turns is :4
+Number after 12 turns is :2
+Number after 13 turns is :1
+Total number of Even Steps were:10
+Total number of Odd Steps were:3
+Total num of Steps were:13
+Data ended here....
+
+The data for 3n + 1 for 36 is:
+The values are obtained for 36.
+Number after 1 turns is :18
+Number after 2 turns is :9
+Number after 3 turns is :28
+Number after 4 turns is :14
+Number after 5 turns is :7
+Number after 6 turns is :22
+Number after 7 turns is :11
+Number after 8 turns is :34
+Number after 9 turns is :17
+Number after 10 turns is :52
+Number after 11 turns is :26
+Number after 12 turns is :13
+Number after 13 turns is :40
+Number after 14 turns is :20
+Number after 15 turns is :10
+Number after 16 turns is :5
+Number after 17 turns is :16
+Number after 18 turns is :8
+Number after 19 turns is :4
+Number after 20 turns is :2
+Number after 21 turns is :1
+Total number of Even Steps were:15
+Total number of Odd Steps were:6
+Total num of Steps were:21
+Data ended here....
+
+The data for 3n + 1 for 37 is:
+The values are obtained for 37.
+Number after 1 turns is :112
+Number after 2 turns is :56
+Number after 3 turns is :28
+Number after 4 turns is :14
+Number after 5 turns is :7
+Number after 6 turns is :22
+Number after 7 turns is :11
+Number after 8 turns is :34
+Number after 9 turns is :17
+Number after 10 turns is :52
+Number after 11 turns is :26
+Number after 12 turns is :13
+Number after 13 turns is :40
+Number after 14 turns is :20
+Number after 15 turns is :10
+Number after 16 turns is :5
+Number after 17 turns is :16
+Number after 18 turns is :8
+Number after 19 turns is :4
+Number after 20 turns is :2
+Number after 21 turns is :1
+Total number of Even Steps were:15
+Total number of Odd Steps were:6
+Total num of Steps were:21
+Data ended here....
+
+The data for 3n + 1 for 38 is:
+The values are obtained for 38.
+Number after 1 turns is :19
+Number after 2 turns is :58
+Number after 3 turns is :29
+Number after 4 turns is :88
+Number after 5 turns is :44
+Number after 6 turns is :22
+Number after 7 turns is :11
+Number after 8 turns is :34
+Number after 9 turns is :17
+Number after 10 turns is :52
+Number after 11 turns is :26
+Number after 12 turns is :13
+Number after 13 turns is :40
+Number after 14 turns is :20
+Number after 15 turns is :10
+Number after 16 turns is :5
+Number after 17 turns is :16
+Number after 18 turns is :8
+Number after 19 turns is :4
+Number after 20 turns is :2
+Number after 21 turns is :1
+Total number of Even Steps were:15
+Total number of Odd Steps were:6
+Total num of Steps were:21
+Data ended here....
+
+The data for 3n + 1 for 39 is:
+The values are obtained for 39.
+Number after 1 turns is :118
+Number after 2 turns is :59
+Number after 3 turns is :178
+Number after 4 turns is :89
+Number after 5 turns is :268
+Number after 6 turns is :134
+Number after 7 turns is :67
+Number after 8 turns is :202
+Number after 9 turns is :101
+Number after 10 turns is :304
+Number after 11 turns is :152
+Number after 12 turns is :76
+Number after 13 turns is :38
+Number after 14 turns is :19
+Number after 15 turns is :58
+Number after 16 turns is :29
+Number after 17 turns is :88
+Number after 18 turns is :44
+Number after 19 turns is :22
+Number after 20 turns is :11
+Number after 21 turns is :34
+Number after 22 turns is :17
+Number after 23 turns is :52
+Number after 24 turns is :26
+Number after 25 turns is :13
+Number after 26 turns is :40
+Number after 27 turns is :20
+Number after 28 turns is :10
+Number after 29 turns is :5
+Number after 30 turns is :16
+Number after 31 turns is :8
+Number after 32 turns is :4
+Number after 33 turns is :2
+Number after 34 turns is :1
+Total number of Even Steps were:23
+Total number of Odd Steps were:11
+Total num of Steps were:34
+Data ended here....
+
+The data for 3n + 1 for 40 is:
+The values are obtained for 40.
+Number after 1 turns is :20
+Number after 2 turns is :10
+Number after 3 turns is :5
+Number after 4 turns is :16
+Number after 5 turns is :8
+Number after 6 turns is :4
+Number after 7 turns is :2
+Number after 8 turns is :1
+Total number of Even Steps were:7
+Total number of Odd Steps were:1
+Total num of Steps were:8
+Data ended here....
+
+The data for 3n + 1 for 41 is:
+The values are obtained for 41.
+Number after 1 turns is :124
+Number after 2 turns is :62
+Number after 3 turns is :31
+Number after 4 turns is :94
+Number after 5 turns is :47
+Number after 6 turns is :142
+Number after 7 turns is :71
+Number after 8 turns is :214
+Number after 9 turns is :107
+Number after 10 turns is :322
+Number after 11 turns is :161
+Number after 12 turns is :484
+Number after 13 turns is :242
+Number after 14 turns is :121
+Number after 15 turns is :364
+Number after 16 turns is :182
+Number after 17 turns is :91
+Number after 18 turns is :274
+Number after 19 turns is :137
+Number after 20 turns is :412
+Number after 21 turns is :206
+Number after 22 turns is :103
+Number after 23 turns is :310
+Number after 24 turns is :155
+Number after 25 turns is :466
+Number after 26 turns is :233
+Number after 27 turns is :700
+Number after 28 turns is :350
+Number after 29 turns is :175
+Number after 30 turns is :526
+Number after 31 turns is :263
+Number after 32 turns is :790
+Number after 33 turns is :395
+Number after 34 turns is :1186
+Number after 35 turns is :593
+Number after 36 turns is :1780
+Number after 37 turns is :890
+Number after 38 turns is :445
+Number after 39 turns is :1336
+Number after 40 turns is :668
+Number after 41 turns is :334
+Number after 42 turns is :167
+Number after 43 turns is :502
+Number after 44 turns is :251
+Number after 45 turns is :754
+Number after 46 turns is :377
+Number after 47 turns is :1132
+Number after 48 turns is :566
+Number after 49 turns is :283
+Number after 50 turns is :850
+Number after 51 turns is :425
+Number after 52 turns is :1276
+Number after 53 turns is :638
+Number after 54 turns is :319
+Number after 55 turns is :958
+Number after 56 turns is :479
+Number after 57 turns is :1438
+Number after 58 turns is :719
+Number after 59 turns is :2158
+Number after 60 turns is :1079
+Number after 61 turns is :3238
+Number after 62 turns is :1619
+Number after 63 turns is :4858
+Number after 64 turns is :2429
+Number after 65 turns is :7288
+Number after 66 turns is :3644
+Number after 67 turns is :1822
+Number after 68 turns is :911
+Number after 69 turns is :2734
+Number after 70 turns is :1367
+Number after 71 turns is :4102
+Number after 72 turns is :2051
+Number after 73 turns is :6154
+Number after 74 turns is :3077
+Number after 75 turns is :9232
+Number after 76 turns is :4616
+Number after 77 turns is :2308
+Number after 78 turns is :1154
+Number after 79 turns is :577
+Number after 80 turns is :1732
+Number after 81 turns is :866
+Number after 82 turns is :433
+Number after 83 turns is :1300
+Number after 84 turns is :650
+Number after 85 turns is :325
+Number after 86 turns is :976
+Number after 87 turns is :488
+Number after 88 turns is :244
+Number after 89 turns is :122
+Number after 90 turns is :61
+Number after 91 turns is :184
+Number after 92 turns is :92
+Number after 93 turns is :46
+Number after 94 turns is :23
+Number after 95 turns is :70
+Number after 96 turns is :35
+Number after 97 turns is :106
+Number after 98 turns is :53
+Number after 99 turns is :160
+Number after 100 turns is :80
+Number after 101 turns is :40
+Number after 102 turns is :20
+Number after 103 turns is :10
+Number after 104 turns is :5
+Number after 105 turns is :16
+Number after 106 turns is :8
+Number after 107 turns is :4
+Number after 108 turns is :2
+Number after 109 turns is :1
+Total number of Even Steps were:69
+Total number of Odd Steps were:40
+Total num of Steps were:109
+Data ended here....
+
+The data for 3n + 1 for 42 is:
+The values are obtained for 42.
+Number after 1 turns is :21
+Number after 2 turns is :64
+Number after 3 turns is :32
+Number after 4 turns is :16
+Number after 5 turns is :8
+Number after 6 turns is :4
+Number after 7 turns is :2
+Number after 8 turns is :1
+Total number of Even Steps were:7
+Total number of Odd Steps were:1
+Total num of Steps were:8
+Data ended here....
+
+The data for 3n + 1 for 43 is:
+The values are obtained for 43.
+Number after 1 turns is :130
+Number after 2 turns is :65
+Number after 3 turns is :196
+Number after 4 turns is :98
+Number after 5 turns is :49
+Number after 6 turns is :148
+Number after 7 turns is :74
+Number after 8 turns is :37
+Number after 9 turns is :112
+Number after 10 turns is :56
+Number after 11 turns is :28
+Number after 12 turns is :14
+Number after 13 turns is :7
+Number after 14 turns is :22
+Number after 15 turns is :11
+Number after 16 turns is :34
+Number after 17 turns is :17
+Number after 18 turns is :52
+Number after 19 turns is :26
+Number after 20 turns is :13
+Number after 21 turns is :40
+Number after 22 turns is :20
+Number after 23 turns is :10
+Number after 24 turns is :5
+Number after 25 turns is :16
+Number after 26 turns is :8
+Number after 27 turns is :4
+Number after 28 turns is :2
+Number after 29 turns is :1
+Total number of Even Steps were:20
+Total number of Odd Steps were:9
+Total num of Steps were:29
+Data ended here....
+
+The data for 3n + 1 for 44 is:
+The values are obtained for 44.
+Number after 1 turns is :22
+Number after 2 turns is :11
+Number after 3 turns is :34
+Number after 4 turns is :17
+Number after 5 turns is :52
+Number after 6 turns is :26
+Number after 7 turns is :13
+Number after 8 turns is :40
+Number after 9 turns is :20
+Number after 10 turns is :10
+Number after 11 turns is :5
+Number after 12 turns is :16
+Number after 13 turns is :8
+Number after 14 turns is :4
+Number after 15 turns is :2
+Number after 16 turns is :1
+Total number of Even Steps were:12
+Total number of Odd Steps were:4
+Total num of Steps were:16
+Data ended here....
+
+The data for 3n + 1 for 45 is:
+The values are obtained for 45.
+Number after 1 turns is :136
+Number after 2 turns is :68
+Number after 3 turns is :34
+Number after 4 turns is :17
+Number after 5 turns is :52
+Number after 6 turns is :26
+Number after 7 turns is :13
+Number after 8 turns is :40
+Number after 9 turns is :20
+Number after 10 turns is :10
+Number after 11 turns is :5
+Number after 12 turns is :16
+Number after 13 turns is :8
+Number after 14 turns is :4
+Number after 15 turns is :2
+Number after 16 turns is :1
+Total number of Even Steps were:12
+Total number of Odd Steps were:4
+Total num of Steps were:16
+Data ended here....
+
+The data for 3n + 1 for 46 is:
+The values are obtained for 46.
+Number after 1 turns is :23
+Number after 2 turns is :70
+Number after 3 turns is :35
+Number after 4 turns is :106
+Number after 5 turns is :53
+Number after 6 turns is :160
+Number after 7 turns is :80
+Number after 8 turns is :40
+Number after 9 turns is :20
+Number after 10 turns is :10
+Number after 11 turns is :5
+Number after 12 turns is :16
+Number after 13 turns is :8
+Number after 14 turns is :4
+Number after 15 turns is :2
+Number after 16 turns is :1
+Total number of Even Steps were:12
+Total number of Odd Steps were:4
+Total num of Steps were:16
+Data ended here....
+
+The data for 3n + 1 for 47 is:
+The values are obtained for 47.
+Number after 1 turns is :142
+Number after 2 turns is :71
+Number after 3 turns is :214
+Number after 4 turns is :107
+Number after 5 turns is :322
+Number after 6 turns is :161
+Number after 7 turns is :484
+Number after 8 turns is :242
+Number after 9 turns is :121
+Number after 10 turns is :364
+Number after 11 turns is :182
+Number after 12 turns is :91
+Number after 13 turns is :274
+Number after 14 turns is :137
+Number after 15 turns is :412
+Number after 16 turns is :206
+Number after 17 turns is :103
+Number after 18 turns is :310
+Number after 19 turns is :155
+Number after 20 turns is :466
+Number after 21 turns is :233
+Number after 22 turns is :700
+Number after 23 turns is :350
+Number after 24 turns is :175
+Number after 25 turns is :526
+Number after 26 turns is :263
+Number after 27 turns is :790
+Number after 28 turns is :395
+Number after 29 turns is :1186
+Number after 30 turns is :593
+Number after 31 turns is :1780
+Number after 32 turns is :890
+Number after 33 turns is :445
+Number after 34 turns is :1336
+Number after 35 turns is :668
+Number after 36 turns is :334
+Number after 37 turns is :167
+Number after 38 turns is :502
+Number after 39 turns is :251
+Number after 40 turns is :754
+Number after 41 turns is :377
+Number after 42 turns is :1132
+Number after 43 turns is :566
+Number after 44 turns is :283
+Number after 45 turns is :850
+Number after 46 turns is :425
+Number after 47 turns is :1276
+Number after 48 turns is :638
+Number after 49 turns is :319
+Number after 50 turns is :958
+Number after 51 turns is :479
+Number after 52 turns is :1438
+Number after 53 turns is :719
+Number after 54 turns is :2158
+Number after 55 turns is :1079
+Number after 56 turns is :3238
+Number after 57 turns is :1619
+Number after 58 turns is :4858
+Number after 59 turns is :2429
+Number after 60 turns is :7288
+Number after 61 turns is :3644
+Number after 62 turns is :1822
+Number after 63 turns is :911
+Number after 64 turns is :2734
+Number after 65 turns is :1367
+Number after 66 turns is :4102
+Number after 67 turns is :2051
+Number after 68 turns is :6154
+Number after 69 turns is :3077
+Number after 70 turns is :9232
+Number after 71 turns is :4616
+Number after 72 turns is :2308
+Number after 73 turns is :1154
+Number after 74 turns is :577
+Number after 75 turns is :1732
+Number after 76 turns is :866
+Number after 77 turns is :433
+Number after 78 turns is :1300
+Number after 79 turns is :650
+Number after 80 turns is :325
+Number after 81 turns is :976
+Number after 82 turns is :488
+Number after 83 turns is :244
+Number after 84 turns is :122
+Number after 85 turns is :61
+Number after 86 turns is :184
+Number after 87 turns is :92
+Number after 88 turns is :46
+Number after 89 turns is :23
+Number after 90 turns is :70
+Number after 91 turns is :35
+Number after 92 turns is :106
+Number after 93 turns is :53
+Number after 94 turns is :160
+Number after 95 turns is :80
+Number after 96 turns is :40
+Number after 97 turns is :20
+Number after 98 turns is :10
+Number after 99 turns is :5
+Number after 100 turns is :16
+Number after 101 turns is :8
+Number after 102 turns is :4
+Number after 103 turns is :2
+Number after 104 turns is :1
+Total number of Even Steps were:66
+Total number of Odd Steps were:38
+Total num of Steps were:104
+Data ended here....
+
+The data for 3n + 1 for 48 is:
+The values are obtained for 48.
+Number after 1 turns is :24
+Number after 2 turns is :12
+Number after 3 turns is :6
+Number after 4 turns is :3
+Number after 5 turns is :10
+Number after 6 turns is :5
+Number after 7 turns is :16
+Number after 8 turns is :8
+Number after 9 turns is :4
+Number after 10 turns is :2
+Number after 11 turns is :1
+Total number of Even Steps were:9
+Total number of Odd Steps were:2
+Total num of Steps were:11
+Data ended here....
+
+The data for 3n + 1 for 49 is:
+The values are obtained for 49.
+Number after 1 turns is :148
+Number after 2 turns is :74
+Number after 3 turns is :37
+Number after 4 turns is :112
+Number after 5 turns is :56
+Number after 6 turns is :28
+Number after 7 turns is :14
+Number after 8 turns is :7
+Number after 9 turns is :22
+Number after 10 turns is :11
+Number after 11 turns is :34
+Number after 12 turns is :17
+Number after 13 turns is :52
+Number after 14 turns is :26
+Number after 15 turns is :13
+Number after 16 turns is :40
+Number after 17 turns is :20
+Number after 18 turns is :10
+Number after 19 turns is :5
+Number after 20 turns is :16
+Number after 21 turns is :8
+Number after 22 turns is :4
+Number after 23 turns is :2
+Number after 24 turns is :1
+Total number of Even Steps were:17
+Total number of Odd Steps were:7
+Total num of Steps were:24
+Data ended here....
+
+The data for 3n + 1 for 50 is:
+The values are obtained for 50.
+Number after 1 turns is :25
+Number after 2 turns is :76
+Number after 3 turns is :38
+Number after 4 turns is :19
+Number after 5 turns is :58
+Number after 6 turns is :29
+Number after 7 turns is :88
+Number after 8 turns is :44
+Number after 9 turns is :22
+Number after 10 turns is :11
+Number after 11 turns is :34
+Number after 12 turns is :17
+Number after 13 turns is :52
+Number after 14 turns is :26
+Number after 15 turns is :13
+Number after 16 turns is :40
+Number after 17 turns is :20
+Number after 18 turns is :10
+Number after 19 turns is :5
+Number after 20 turns is :16
+Number after 21 turns is :8
+Number after 22 turns is :4
+Number after 23 turns is :2
+Number after 24 turns is :1
+Total number of Even Steps were:17
+Total number of Odd Steps were:7
+Total num of Steps were:24
+Data ended here....
+
+The data for 3n + 1 for 51 is:
+The values are obtained for 51.
+Number after 1 turns is :154
+Number after 2 turns is :77
+Number after 3 turns is :232
+Number after 4 turns is :116
+Number after 5 turns is :58
+Number after 6 turns is :29
+Number after 7 turns is :88
+Number after 8 turns is :44
+Number after 9 turns is :22
+Number after 10 turns is :11
+Number after 11 turns is :34
+Number after 12 turns is :17
+Number after 13 turns is :52
+Number after 14 turns is :26
+Number after 15 turns is :13
+Number after 16 turns is :40
+Number after 17 turns is :20
+Number after 18 turns is :10
+Number after 19 turns is :5
+Number after 20 turns is :16
+Number after 21 turns is :8
+Number after 22 turns is :4
+Number after 23 turns is :2
+Number after 24 turns is :1
+Total number of Even Steps were:17
+Total number of Odd Steps were:7
+Total num of Steps were:24
+Data ended here....
+
+The data for 3n + 1 for 52 is:
+The values are obtained for 52.
+Number after 1 turns is :26
+Number after 2 turns is :13
+Number after 3 turns is :40
+Number after 4 turns is :20
+Number after 5 turns is :10
+Number after 6 turns is :5
+Number after 7 turns is :16
+Number after 8 turns is :8
+Number after 9 turns is :4
+Number after 10 turns is :2
+Number after 11 turns is :1
+Total number of Even Steps were:9
+Total number of Odd Steps were:2
+Total num of Steps were:11
+Data ended here....
+
+The data for 3n + 1 for 53 is:
+The values are obtained for 53.
+Number after 1 turns is :160
+Number after 2 turns is :80
+Number after 3 turns is :40
+Number after 4 turns is :20
+Number after 5 turns is :10
+Number after 6 turns is :5
+Number after 7 turns is :16
+Number after 8 turns is :8
+Number after 9 turns is :4
+Number after 10 turns is :2
+Number after 11 turns is :1
+Total number of Even Steps were:9
+Total number of Odd Steps were:2
+Total num of Steps were:11
+Data ended here....
+
+The data for 3n + 1 for 54 is:
+The values are obtained for 54.
+Number after 1 turns is :27
+Number after 2 turns is :82
+Number after 3 turns is :41
+Number after 4 turns is :124
+Number after 5 turns is :62
+Number after 6 turns is :31
+Number after 7 turns is :94
+Number after 8 turns is :47
+Number after 9 turns is :142
+Number after 10 turns is :71
+Number after 11 turns is :214
+Number after 12 turns is :107
+Number after 13 turns is :322
+Number after 14 turns is :161
+Number after 15 turns is :484
+Number after 16 turns is :242
+Number after 17 turns is :121
+Number after 18 turns is :364
+Number after 19 turns is :182
+Number after 20 turns is :91
+Number after 21 turns is :274
+Number after 22 turns is :137
+Number after 23 turns is :412
+Number after 24 turns is :206
+Number after 25 turns is :103
+Number after 26 turns is :310
+Number after 27 turns is :155
+Number after 28 turns is :466
+Number after 29 turns is :233
+Number after 30 turns is :700
+Number after 31 turns is :350
+Number after 32 turns is :175
+Number after 33 turns is :526
+Number after 34 turns is :263
+Number after 35 turns is :790
+Number after 36 turns is :395
+Number after 37 turns is :1186
+Number after 38 turns is :593
+Number after 39 turns is :1780
+Number after 40 turns is :890
+Number after 41 turns is :445
+Number after 42 turns is :1336
+Number after 43 turns is :668
+Number after 44 turns is :334
+Number after 45 turns is :167
+Number after 46 turns is :502
+Number after 47 turns is :251
+Number after 48 turns is :754
+Number after 49 turns is :377
+Number after 50 turns is :1132
+Number after 51 turns is :566
+Number after 52 turns is :283
+Number after 53 turns is :850
+Number after 54 turns is :425
+Number after 55 turns is :1276
+Number after 56 turns is :638
+Number after 57 turns is :319
+Number after 58 turns is :958
+Number after 59 turns is :479
+Number after 60 turns is :1438
+Number after 61 turns is :719
+Number after 62 turns is :2158
+Number after 63 turns is :1079
+Number after 64 turns is :3238
+Number after 65 turns is :1619
+Number after 66 turns is :4858
+Number after 67 turns is :2429
+Number after 68 turns is :7288
+Number after 69 turns is :3644
+Number after 70 turns is :1822
+Number after 71 turns is :911
+Number after 72 turns is :2734
+Number after 73 turns is :1367
+Number after 74 turns is :4102
+Number after 75 turns is :2051
+Number after 76 turns is :6154
+Number after 77 turns is :3077
+Number after 78 turns is :9232
+Number after 79 turns is :4616
+Number after 80 turns is :2308
+Number after 81 turns is :1154
+Number after 82 turns is :577
+Number after 83 turns is :1732
+Number after 84 turns is :866
+Number after 85 turns is :433
+Number after 86 turns is :1300
+Number after 87 turns is :650
+Number after 88 turns is :325
+Number after 89 turns is :976
+Number after 90 turns is :488
+Number after 91 turns is :244
+Number after 92 turns is :122
+Number after 93 turns is :61
+Number after 94 turns is :184
+Number after 95 turns is :92
+Number after 96 turns is :46
+Number after 97 turns is :23
+Number after 98 turns is :70
+Number after 99 turns is :35
+Number after 100 turns is :106
+Number after 101 turns is :53
+Number after 102 turns is :160
+Number after 103 turns is :80
+Number after 104 turns is :40
+Number after 105 turns is :20
+Number after 106 turns is :10
+Number after 107 turns is :5
+Number after 108 turns is :16
+Number after 109 turns is :8
+Number after 110 turns is :4
+Number after 111 turns is :2
+Number after 112 turns is :1
+Total number of Even Steps were:71
+Total number of Odd Steps were:41
+Total num of Steps were:112
+Data ended here....
+
+The data for 3n + 1 for 55 is:
+The values are obtained for 55.
+Number after 1 turns is :166
+Number after 2 turns is :83
+Number after 3 turns is :250
+Number after 4 turns is :125
+Number after 5 turns is :376
+Number after 6 turns is :188
+Number after 7 turns is :94
+Number after 8 turns is :47
+Number after 9 turns is :142
+Number after 10 turns is :71
+Number after 11 turns is :214
+Number after 12 turns is :107
+Number after 13 turns is :322
+Number after 14 turns is :161
+Number after 15 turns is :484
+Number after 16 turns is :242
+Number after 17 turns is :121
+Number after 18 turns is :364
+Number after 19 turns is :182
+Number after 20 turns is :91
+Number after 21 turns is :274
+Number after 22 turns is :137
+Number after 23 turns is :412
+Number after 24 turns is :206
+Number after 25 turns is :103
+Number after 26 turns is :310
+Number after 27 turns is :155
+Number after 28 turns is :466
+Number after 29 turns is :233
+Number after 30 turns is :700
+Number after 31 turns is :350
+Number after 32 turns is :175
+Number after 33 turns is :526
+Number after 34 turns is :263
+Number after 35 turns is :790
+Number after 36 turns is :395
+Number after 37 turns is :1186
+Number after 38 turns is :593
+Number after 39 turns is :1780
+Number after 40 turns is :890
+Number after 41 turns is :445
+Number after 42 turns is :1336
+Number after 43 turns is :668
+Number after 44 turns is :334
+Number after 45 turns is :167
+Number after 46 turns is :502
+Number after 47 turns is :251
+Number after 48 turns is :754
+Number after 49 turns is :377
+Number after 50 turns is :1132
+Number after 51 turns is :566
+Number after 52 turns is :283
+Number after 53 turns is :850
+Number after 54 turns is :425
+Number after 55 turns is :1276
+Number after 56 turns is :638
+Number after 57 turns is :319
+Number after 58 turns is :958
+Number after 59 turns is :479
+Number after 60 turns is :1438
+Number after 61 turns is :719
+Number after 62 turns is :2158
+Number after 63 turns is :1079
+Number after 64 turns is :3238
+Number after 65 turns is :1619
+Number after 66 turns is :4858
+Number after 67 turns is :2429
+Number after 68 turns is :7288
+Number after 69 turns is :3644
+Number after 70 turns is :1822
+Number after 71 turns is :911
+Number after 72 turns is :2734
+Number after 73 turns is :1367
+Number after 74 turns is :4102
+Number after 75 turns is :2051
+Number after 76 turns is :6154
+Number after 77 turns is :3077
+Number after 78 turns is :9232
+Number after 79 turns is :4616
+Number after 80 turns is :2308
+Number after 81 turns is :1154
+Number after 82 turns is :577
+Number after 83 turns is :1732
+Number after 84 turns is :866
+Number after 85 turns is :433
+Number after 86 turns is :1300
+Number after 87 turns is :650
+Number after 88 turns is :325
+Number after 89 turns is :976
+Number after 90 turns is :488
+Number after 91 turns is :244
+Number after 92 turns is :122
+Number after 93 turns is :61
+Number after 94 turns is :184
+Number after 95 turns is :92
+Number after 96 turns is :46
+Number after 97 turns is :23
+Number after 98 turns is :70
+Number after 99 turns is :35
+Number after 100 turns is :106
+Number after 101 turns is :53
+Number after 102 turns is :160
+Number after 103 turns is :80
+Number after 104 turns is :40
+Number after 105 turns is :20
+Number after 106 turns is :10
+Number after 107 turns is :5
+Number after 108 turns is :16
+Number after 109 turns is :8
+Number after 110 turns is :4
+Number after 111 turns is :2
+Number after 112 turns is :1
+Total number of Even Steps were:71
+Total number of Odd Steps were:41
+Total num of Steps were:112
+Data ended here....
+
+The data for 3n + 1 for 56 is:
+The values are obtained for 56.
+Number after 1 turns is :28
+Number after 2 turns is :14
+Number after 3 turns is :7
+Number after 4 turns is :22
+Number after 5 turns is :11
+Number after 6 turns is :34
+Number after 7 turns is :17
+Number after 8 turns is :52
+Number after 9 turns is :26
+Number after 10 turns is :13
+Number after 11 turns is :40
+Number after 12 turns is :20
+Number after 13 turns is :10
+Number after 14 turns is :5
+Number after 15 turns is :16
+Number after 16 turns is :8
+Number after 17 turns is :4
+Number after 18 turns is :2
+Number after 19 turns is :1
+Total number of Even Steps were:14
+Total number of Odd Steps were:5
+Total num of Steps were:19
+Data ended here....
+
+The data for 3n + 1 for 57 is:
+The values are obtained for 57.
+Number after 1 turns is :172
+Number after 2 turns is :86
+Number after 3 turns is :43
+Number after 4 turns is :130
+Number after 5 turns is :65
+Number after 6 turns is :196
+Number after 7 turns is :98
+Number after 8 turns is :49
+Number after 9 turns is :148
+Number after 10 turns is :74
+Number after 11 turns is :37
+Number after 12 turns is :112
+Number after 13 turns is :56
+Number after 14 turns is :28
+Number after 15 turns is :14
+Number after 16 turns is :7
+Number after 17 turns is :22
+Number after 18 turns is :11
+Number after 19 turns is :34
+Number after 20 turns is :17
+Number after 21 turns is :52
+Number after 22 turns is :26
+Number after 23 turns is :13
+Number after 24 turns is :40
+Number after 25 turns is :20
+Number after 26 turns is :10
+Number after 27 turns is :5
+Number after 28 turns is :16
+Number after 29 turns is :8
+Number after 30 turns is :4
+Number after 31 turns is :2
+Number after 32 turns is :1
+Total number of Even Steps were:22
+Total number of Odd Steps were:10
+Total num of Steps were:32
+Data ended here....
+
+The data for 3n + 1 for 58 is:
+The values are obtained for 58.
+Number after 1 turns is :29
+Number after 2 turns is :88
+Number after 3 turns is :44
+Number after 4 turns is :22
+Number after 5 turns is :11
+Number after 6 turns is :34
+Number after 7 turns is :17
+Number after 8 turns is :52
+Number after 9 turns is :26
+Number after 10 turns is :13
+Number after 11 turns is :40
+Number after 12 turns is :20
+Number after 13 turns is :10
+Number after 14 turns is :5
+Number after 15 turns is :16
+Number after 16 turns is :8
+Number after 17 turns is :4
+Number after 18 turns is :2
+Number after 19 turns is :1
+Total number of Even Steps were:14
+Total number of Odd Steps were:5
+Total num of Steps were:19
+Data ended here....
+
+The data for 3n + 1 for 59 is:
+The values are obtained for 59.
+Number after 1 turns is :178
+Number after 2 turns is :89
+Number after 3 turns is :268
+Number after 4 turns is :134
+Number after 5 turns is :67
+Number after 6 turns is :202
+Number after 7 turns is :101
+Number after 8 turns is :304
+Number after 9 turns is :152
+Number after 10 turns is :76
+Number after 11 turns is :38
+Number after 12 turns is :19
+Number after 13 turns is :58
+Number after 14 turns is :29
+Number after 15 turns is :88
+Number after 16 turns is :44
+Number after 17 turns is :22
+Number after 18 turns is :11
+Number after 19 turns is :34
+Number after 20 turns is :17
+Number after 21 turns is :52
+Number after 22 turns is :26
+Number after 23 turns is :13
+Number after 24 turns is :40
+Number after 25 turns is :20
+Number after 26 turns is :10
+Number after 27 turns is :5
+Number after 28 turns is :16
+Number after 29 turns is :8
+Number after 30 turns is :4
+Number after 31 turns is :2
+Number after 32 turns is :1
+Total number of Even Steps were:22
+Total number of Odd Steps were:10
+Total num of Steps were:32
+Data ended here....
+
+The data for 3n + 1 for 60 is:
+The values are obtained for 60.
+Number after 1 turns is :30
+Number after 2 turns is :15
+Number after 3 turns is :46
+Number after 4 turns is :23
+Number after 5 turns is :70
+Number after 6 turns is :35
+Number after 7 turns is :106
+Number after 8 turns is :53
+Number after 9 turns is :160
+Number after 10 turns is :80
+Number after 11 turns is :40
+Number after 12 turns is :20
+Number after 13 turns is :10
+Number after 14 turns is :5
+Number after 15 turns is :16
+Number after 16 turns is :8
+Number after 17 turns is :4
+Number after 18 turns is :2
+Number after 19 turns is :1
+Total number of Even Steps were:14
+Total number of Odd Steps were:5
+Total num of Steps were:19
+Data ended here....
+
+The data for 3n + 1 for 61 is:
+The values are obtained for 61.
+Number after 1 turns is :184
+Number after 2 turns is :92
+Number after 3 turns is :46
+Number after 4 turns is :23
+Number after 5 turns is :70
+Number after 6 turns is :35
+Number after 7 turns is :106
+Number after 8 turns is :53
+Number after 9 turns is :160
+Number after 10 turns is :80
+Number after 11 turns is :40
+Number after 12 turns is :20
+Number after 13 turns is :10
+Number after 14 turns is :5
+Number after 15 turns is :16
+Number after 16 turns is :8
+Number after 17 turns is :4
+Number after 18 turns is :2
+Number after 19 turns is :1
+Total number of Even Steps were:14
+Total number of Odd Steps were:5
+Total num of Steps were:19
+Data ended here....
+
+The data for 3n + 1 for 62 is:
+The values are obtained for 62.
+Number after 1 turns is :31
+Number after 2 turns is :94
+Number after 3 turns is :47
+Number after 4 turns is :142
+Number after 5 turns is :71
+Number after 6 turns is :214
+Number after 7 turns is :107
+Number after 8 turns is :322
+Number after 9 turns is :161
+Number after 10 turns is :484
+Number after 11 turns is :242
+Number after 12 turns is :121
+Number after 13 turns is :364
+Number after 14 turns is :182
+Number after 15 turns is :91
+Number after 16 turns is :274
+Number after 17 turns is :137
+Number after 18 turns is :412
+Number after 19 turns is :206
+Number after 20 turns is :103
+Number after 21 turns is :310
+Number after 22 turns is :155
+Number after 23 turns is :466
+Number after 24 turns is :233
+Number after 25 turns is :700
+Number after 26 turns is :350
+Number after 27 turns is :175
+Number after 28 turns is :526
+Number after 29 turns is :263
+Number after 30 turns is :790
+Number after 31 turns is :395
+Number after 32 turns is :1186
+Number after 33 turns is :593
+Number after 34 turns is :1780
+Number after 35 turns is :890
+Number after 36 turns is :445
+Number after 37 turns is :1336
+Number after 38 turns is :668
+Number after 39 turns is :334
+Number after 40 turns is :167
+Number after 41 turns is :502
+Number after 42 turns is :251
+Number after 43 turns is :754
+Number after 44 turns is :377
+Number after 45 turns is :1132
+Number after 46 turns is :566
+Number after 47 turns is :283
+Number after 48 turns is :850
+Number after 49 turns is :425
+Number after 50 turns is :1276
+Number after 51 turns is :638
+Number after 52 turns is :319
+Number after 53 turns is :958
+Number after 54 turns is :479
+Number after 55 turns is :1438
+Number after 56 turns is :719
+Number after 57 turns is :2158
+Number after 58 turns is :1079
+Number after 59 turns is :3238
+Number after 60 turns is :1619
+Number after 61 turns is :4858
+Number after 62 turns is :2429
+Number after 63 turns is :7288
+Number after 64 turns is :3644
+Number after 65 turns is :1822
+Number after 66 turns is :911
+Number after 67 turns is :2734
+Number after 68 turns is :1367
+Number after 69 turns is :4102
+Number after 70 turns is :2051
+Number after 71 turns is :6154
+Number after 72 turns is :3077
+Number after 73 turns is :9232
+Number after 74 turns is :4616
+Number after 75 turns is :2308
+Number after 76 turns is :1154
+Number after 77 turns is :577
+Number after 78 turns is :1732
+Number after 79 turns is :866
+Number after 80 turns is :433
+Number after 81 turns is :1300
+Number after 82 turns is :650
+Number after 83 turns is :325
+Number after 84 turns is :976
+Number after 85 turns is :488
+Number after 86 turns is :244
+Number after 87 turns is :122
+Number after 88 turns is :61
+Number after 89 turns is :184
+Number after 90 turns is :92
+Number after 91 turns is :46
+Number after 92 turns is :23
+Number after 93 turns is :70
+Number after 94 turns is :35
+Number after 95 turns is :106
+Number after 96 turns is :53
+Number after 97 turns is :160
+Number after 98 turns is :80
+Number after 99 turns is :40
+Number after 100 turns is :20
+Number after 101 turns is :10
+Number after 102 turns is :5
+Number after 103 turns is :16
+Number after 104 turns is :8
+Number after 105 turns is :4
+Number after 106 turns is :2
+Number after 107 turns is :1
+Total number of Even Steps were:68
+Total number of Odd Steps were:39
+Total num of Steps were:107
+Data ended here....
+
+The data for 3n + 1 for 63 is:
+The values are obtained for 63.
+Number after 1 turns is :190
+Number after 2 turns is :95
+Number after 3 turns is :286
+Number after 4 turns is :143
+Number after 5 turns is :430
+Number after 6 turns is :215
+Number after 7 turns is :646
+Number after 8 turns is :323
+Number after 9 turns is :970
+Number after 10 turns is :485
+Number after 11 turns is :1456
+Number after 12 turns is :728
+Number after 13 turns is :364
+Number after 14 turns is :182
+Number after 15 turns is :91
+Number after 16 turns is :274
+Number after 17 turns is :137
+Number after 18 turns is :412
+Number after 19 turns is :206
+Number after 20 turns is :103
+Number after 21 turns is :310
+Number after 22 turns is :155
+Number after 23 turns is :466
+Number after 24 turns is :233
+Number after 25 turns is :700
+Number after 26 turns is :350
+Number after 27 turns is :175
+Number after 28 turns is :526
+Number after 29 turns is :263
+Number after 30 turns is :790
+Number after 31 turns is :395
+Number after 32 turns is :1186
+Number after 33 turns is :593
+Number after 34 turns is :1780
+Number after 35 turns is :890
+Number after 36 turns is :445
+Number after 37 turns is :1336
+Number after 38 turns is :668
+Number after 39 turns is :334
+Number after 40 turns is :167
+Number after 41 turns is :502
+Number after 42 turns is :251
+Number after 43 turns is :754
+Number after 44 turns is :377
+Number after 45 turns is :1132
+Number after 46 turns is :566
+Number after 47 turns is :283
+Number after 48 turns is :850
+Number after 49 turns is :425
+Number after 50 turns is :1276
+Number after 51 turns is :638
+Number after 52 turns is :319
+Number after 53 turns is :958
+Number after 54 turns is :479
+Number after 55 turns is :1438
+Number after 56 turns is :719
+Number after 57 turns is :2158
+Number after 58 turns is :1079
+Number after 59 turns is :3238
+Number after 60 turns is :1619
+Number after 61 turns is :4858
+Number after 62 turns is :2429
+Number after 63 turns is :7288
+Number after 64 turns is :3644
+Number after 65 turns is :1822
+Number after 66 turns is :911
+Number after 67 turns is :2734
+Number after 68 turns is :1367
+Number after 69 turns is :4102
+Number after 70 turns is :2051
+Number after 71 turns is :6154
+Number after 72 turns is :3077
+Number after 73 turns is :9232
+Number after 74 turns is :4616
+Number after 75 turns is :2308
+Number after 76 turns is :1154
+Number after 77 turns is :577
+Number after 78 turns is :1732
+Number after 79 turns is :866
+Number after 80 turns is :433
+Number after 81 turns is :1300
+Number after 82 turns is :650
+Number after 83 turns is :325
+Number after 84 turns is :976
+Number after 85 turns is :488
+Number after 86 turns is :244
+Number after 87 turns is :122
+Number after 88 turns is :61
+Number after 89 turns is :184
+Number after 90 turns is :92
+Number after 91 turns is :46
+Number after 92 turns is :23
+Number after 93 turns is :70
+Number after 94 turns is :35
+Number after 95 turns is :106
+Number after 96 turns is :53
+Number after 97 turns is :160
+Number after 98 turns is :80
+Number after 99 turns is :40
+Number after 100 turns is :20
+Number after 101 turns is :10
+Number after 102 turns is :5
+Number after 103 turns is :16
+Number after 104 turns is :8
+Number after 105 turns is :4
+Number after 106 turns is :2
+Number after 107 turns is :1
+Total number of Even Steps were:68
+Total number of Odd Steps were:39
+Total num of Steps were:107
+Data ended here....
+
+The data for 3n + 1 for 64 is:
+The values are obtained for 64.
+Number after 1 turns is :32
+Number after 2 turns is :16
+Number after 3 turns is :8
+Number after 4 turns is :4
+Number after 5 turns is :2
+Number after 6 turns is :1
+Total number of Even Steps were:6
+Total number of Odd Steps were:0
+Total num of Steps were:6
+Data ended here....
+
+The data for 3n + 1 for 65 is:
+The values are obtained for 65.
+Number after 1 turns is :196
+Number after 2 turns is :98
+Number after 3 turns is :49
+Number after 4 turns is :148
+Number after 5 turns is :74
+Number after 6 turns is :37
+Number after 7 turns is :112
+Number after 8 turns is :56
+Number after 9 turns is :28
+Number after 10 turns is :14
+Number after 11 turns is :7
+Number after 12 turns is :22
+Number after 13 turns is :11
+Number after 14 turns is :34
+Number after 15 turns is :17
+Number after 16 turns is :52
+Number after 17 turns is :26
+Number after 18 turns is :13
+Number after 19 turns is :40
+Number after 20 turns is :20
+Number after 21 turns is :10
+Number after 22 turns is :5
+Number after 23 turns is :16
+Number after 24 turns is :8
+Number after 25 turns is :4
+Number after 26 turns is :2
+Number after 27 turns is :1
+Total number of Even Steps were:19
+Total number of Odd Steps were:8
+Total num of Steps were:27
+Data ended here....
+
+The data for 3n + 1 for 66 is:
+The values are obtained for 66.
+Number after 1 turns is :33
+Number after 2 turns is :100
+Number after 3 turns is :50
+Number after 4 turns is :25
+Number after 5 turns is :76
+Number after 6 turns is :38
+Number after 7 turns is :19
+Number after 8 turns is :58
+Number after 9 turns is :29
+Number after 10 turns is :88
+Number after 11 turns is :44
+Number after 12 turns is :22
+Number after 13 turns is :11
+Number after 14 turns is :34
+Number after 15 turns is :17
+Number after 16 turns is :52
+Number after 17 turns is :26
+Number after 18 turns is :13
+Number after 19 turns is :40
+Number after 20 turns is :20
+Number after 21 turns is :10
+Number after 22 turns is :5
+Number after 23 turns is :16
+Number after 24 turns is :8
+Number after 25 turns is :4
+Number after 26 turns is :2
+Number after 27 turns is :1
+Total number of Even Steps were:19
+Total number of Odd Steps were:8
+Total num of Steps were:27
+Data ended here....
+
+The data for 3n + 1 for 67 is:
+The values are obtained for 67.
+Number after 1 turns is :202
+Number after 2 turns is :101
+Number after 3 turns is :304
+Number after 4 turns is :152
+Number after 5 turns is :76
+Number after 6 turns is :38
+Number after 7 turns is :19
+Number after 8 turns is :58
+Number after 9 turns is :29
+Number after 10 turns is :88
+Number after 11 turns is :44
+Number after 12 turns is :22
+Number after 13 turns is :11
+Number after 14 turns is :34
+Number after 15 turns is :17
+Number after 16 turns is :52
+Number after 17 turns is :26
+Number after 18 turns is :13
+Number after 19 turns is :40
+Number after 20 turns is :20
+Number after 21 turns is :10
+Number after 22 turns is :5
+Number after 23 turns is :16
+Number after 24 turns is :8
+Number after 25 turns is :4
+Number after 26 turns is :2
+Number after 27 turns is :1
+Total number of Even Steps were:19
+Total number of Odd Steps were:8
+Total num of Steps were:27
+Data ended here....
+
+The data for 3n + 1 for 68 is:
+The values are obtained for 68.
+Number after 1 turns is :34
+Number after 2 turns is :17
+Number after 3 turns is :52
+Number after 4 turns is :26
+Number after 5 turns is :13
+Number after 6 turns is :40
+Number after 7 turns is :20
+Number after 8 turns is :10
+Number after 9 turns is :5
+Number after 10 turns is :16
+Number after 11 turns is :8
+Number after 12 turns is :4
+Number after 13 turns is :2
+Number after 14 turns is :1
+Total number of Even Steps were:11
+Total number of Odd Steps were:3
+Total num of Steps were:14
+Data ended here....
+
+The data for 3n + 1 for 69 is:
+The values are obtained for 69.
+Number after 1 turns is :208
+Number after 2 turns is :104
+Number after 3 turns is :52
+Number after 4 turns is :26
+Number after 5 turns is :13
+Number after 6 turns is :40
+Number after 7 turns is :20
+Number after 8 turns is :10
+Number after 9 turns is :5
+Number after 10 turns is :16
+Number after 11 turns is :8
+Number after 12 turns is :4
+Number after 13 turns is :2
+Number after 14 turns is :1
+Total number of Even Steps were:11
+Total number of Odd Steps were:3
+Total num of Steps were:14
+Data ended here....
+
+The data for 3n + 1 for 70 is:
+The values are obtained for 70.
+Number after 1 turns is :35
+Number after 2 turns is :106
+Number after 3 turns is :53
+Number after 4 turns is :160
+Number after 5 turns is :80
+Number after 6 turns is :40
+Number after 7 turns is :20
+Number after 8 turns is :10
+Number after 9 turns is :5
+Number after 10 turns is :16
+Number after 11 turns is :8
+Number after 12 turns is :4
+Number after 13 turns is :2
+Number after 14 turns is :1
+Total number of Even Steps were:11
+Total number of Odd Steps were:3
+Total num of Steps were:14
+Data ended here....
+
+The data for 3n + 1 for 71 is:
+The values are obtained for 71.
+Number after 1 turns is :214
+Number after 2 turns is :107
+Number after 3 turns is :322
+Number after 4 turns is :161
+Number after 5 turns is :484
+Number after 6 turns is :242
+Number after 7 turns is :121
+Number after 8 turns is :364
+Number after 9 turns is :182
+Number after 10 turns is :91
+Number after 11 turns is :274
+Number after 12 turns is :137
+Number after 13 turns is :412
+Number after 14 turns is :206
+Number after 15 turns is :103
+Number after 16 turns is :310
+Number after 17 turns is :155
+Number after 18 turns is :466
+Number after 19 turns is :233
+Number after 20 turns is :700
+Number after 21 turns is :350
+Number after 22 turns is :175
+Number after 23 turns is :526
+Number after 24 turns is :263
+Number after 25 turns is :790
+Number after 26 turns is :395
+Number after 27 turns is :1186
+Number after 28 turns is :593
+Number after 29 turns is :1780
+Number after 30 turns is :890
+Number after 31 turns is :445
+Number after 32 turns is :1336
+Number after 33 turns is :668
+Number after 34 turns is :334
+Number after 35 turns is :167
+Number after 36 turns is :502
+Number after 37 turns is :251
+Number after 38 turns is :754
+Number after 39 turns is :377
+Number after 40 turns is :1132
+Number after 41 turns is :566
+Number after 42 turns is :283
+Number after 43 turns is :850
+Number after 44 turns is :425
+Number after 45 turns is :1276
+Number after 46 turns is :638
+Number after 47 turns is :319
+Number after 48 turns is :958
+Number after 49 turns is :479
+Number after 50 turns is :1438
+Number after 51 turns is :719
+Number after 52 turns is :2158
+Number after 53 turns is :1079
+Number after 54 turns is :3238
+Number after 55 turns is :1619
+Number after 56 turns is :4858
+Number after 57 turns is :2429
+Number after 58 turns is :7288
+Number after 59 turns is :3644
+Number after 60 turns is :1822
+Number after 61 turns is :911
+Number after 62 turns is :2734
+Number after 63 turns is :1367
+Number after 64 turns is :4102
+Number after 65 turns is :2051
+Number after 66 turns is :6154
+Number after 67 turns is :3077
+Number after 68 turns is :9232
+Number after 69 turns is :4616
+Number after 70 turns is :2308
+Number after 71 turns is :1154
+Number after 72 turns is :577
+Number after 73 turns is :1732
+Number after 74 turns is :866
+Number after 75 turns is :433
+Number after 76 turns is :1300
+Number after 77 turns is :650
+Number after 78 turns is :325
+Number after 79 turns is :976
+Number after 80 turns is :488
+Number after 81 turns is :244
+Number after 82 turns is :122
+Number after 83 turns is :61
+Number after 84 turns is :184
+Number after 85 turns is :92
+Number after 86 turns is :46
+Number after 87 turns is :23
+Number after 88 turns is :70
+Number after 89 turns is :35
+Number after 90 turns is :106
+Number after 91 turns is :53
+Number after 92 turns is :160
+Number after 93 turns is :80
+Number after 94 turns is :40
+Number after 95 turns is :20
+Number after 96 turns is :10
+Number after 97 turns is :5
+Number after 98 turns is :16
+Number after 99 turns is :8
+Number after 100 turns is :4
+Number after 101 turns is :2
+Number after 102 turns is :1
+Total number of Even Steps were:65
+Total number of Odd Steps were:37
+Total num of Steps were:102
+Data ended here....
+
+The data for 3n + 1 for 72 is:
+The values are obtained for 72.
+Number after 1 turns is :36
+Number after 2 turns is :18
+Number after 3 turns is :9
+Number after 4 turns is :28
+Number after 5 turns is :14
+Number after 6 turns is :7
+Number after 7 turns is :22
+Number after 8 turns is :11
+Number after 9 turns is :34
+Number after 10 turns is :17
+Number after 11 turns is :52
+Number after 12 turns is :26
+Number after 13 turns is :13
+Number after 14 turns is :40
+Number after 15 turns is :20
+Number after 16 turns is :10
+Number after 17 turns is :5
+Number after 18 turns is :16
+Number after 19 turns is :8
+Number after 20 turns is :4
+Number after 21 turns is :2
+Number after 22 turns is :1
+Total number of Even Steps were:16
+Total number of Odd Steps were:6
+Total num of Steps were:22
+Data ended here....
+
+The data for 3n + 1 for 73 is:
+The values are obtained for 73.
+Number after 1 turns is :220
+Number after 2 turns is :110
+Number after 3 turns is :55
+Number after 4 turns is :166
+Number after 5 turns is :83
+Number after 6 turns is :250
+Number after 7 turns is :125
+Number after 8 turns is :376
+Number after 9 turns is :188
+Number after 10 turns is :94
+Number after 11 turns is :47
+Number after 12 turns is :142
+Number after 13 turns is :71
+Number after 14 turns is :214
+Number after 15 turns is :107
+Number after 16 turns is :322
+Number after 17 turns is :161
+Number after 18 turns is :484
+Number after 19 turns is :242
+Number after 20 turns is :121
+Number after 21 turns is :364
+Number after 22 turns is :182
+Number after 23 turns is :91
+Number after 24 turns is :274
+Number after 25 turns is :137
+Number after 26 turns is :412
+Number after 27 turns is :206
+Number after 28 turns is :103
+Number after 29 turns is :310
+Number after 30 turns is :155
+Number after 31 turns is :466
+Number after 32 turns is :233
+Number after 33 turns is :700
+Number after 34 turns is :350
+Number after 35 turns is :175
+Number after 36 turns is :526
+Number after 37 turns is :263
+Number after 38 turns is :790
+Number after 39 turns is :395
+Number after 40 turns is :1186
+Number after 41 turns is :593
+Number after 42 turns is :1780
+Number after 43 turns is :890
+Number after 44 turns is :445
+Number after 45 turns is :1336
+Number after 46 turns is :668
+Number after 47 turns is :334
+Number after 48 turns is :167
+Number after 49 turns is :502
+Number after 50 turns is :251
+Number after 51 turns is :754
+Number after 52 turns is :377
+Number after 53 turns is :1132
+Number after 54 turns is :566
+Number after 55 turns is :283
+Number after 56 turns is :850
+Number after 57 turns is :425
+Number after 58 turns is :1276
+Number after 59 turns is :638
+Number after 60 turns is :319
+Number after 61 turns is :958
+Number after 62 turns is :479
+Number after 63 turns is :1438
+Number after 64 turns is :719
+Number after 65 turns is :2158
+Number after 66 turns is :1079
+Number after 67 turns is :3238
+Number after 68 turns is :1619
+Number after 69 turns is :4858
+Number after 70 turns is :2429
+Number after 71 turns is :7288
+Number after 72 turns is :3644
+Number after 73 turns is :1822
+Number after 74 turns is :911
+Number after 75 turns is :2734
+Number after 76 turns is :1367
+Number after 77 turns is :4102
+Number after 78 turns is :2051
+Number after 79 turns is :6154
+Number after 80 turns is :3077
+Number after 81 turns is :9232
+Number after 82 turns is :4616
+Number after 83 turns is :2308
+Number after 84 turns is :1154
+Number after 85 turns is :577
+Number after 86 turns is :1732
+Number after 87 turns is :866
+Number after 88 turns is :433
+Number after 89 turns is :1300
+Number after 90 turns is :650
+Number after 91 turns is :325
+Number after 92 turns is :976
+Number after 93 turns is :488
+Number after 94 turns is :244
+Number after 95 turns is :122
+Number after 96 turns is :61
+Number after 97 turns is :184
+Number after 98 turns is :92
+Number after 99 turns is :46
+Number after 100 turns is :23
+Number after 101 turns is :70
+Number after 102 turns is :35
+Number after 103 turns is :106
+Number after 104 turns is :53
+Number after 105 turns is :160
+Number after 106 turns is :80
+Number after 107 turns is :40
+Number after 108 turns is :20
+Number after 109 turns is :10
+Number after 110 turns is :5
+Number after 111 turns is :16
+Number after 112 turns is :8
+Number after 113 turns is :4
+Number after 114 turns is :2
+Number after 115 turns is :1
+Total number of Even Steps were:73
+Total number of Odd Steps were:42
+Total num of Steps were:115
+Data ended here....
+
+The data for 3n + 1 for 74 is:
+The values are obtained for 74.
+Number after 1 turns is :37
+Number after 2 turns is :112
+Number after 3 turns is :56
+Number after 4 turns is :28
+Number after 5 turns is :14
+Number after 6 turns is :7
+Number after 7 turns is :22
+Number after 8 turns is :11
+Number after 9 turns is :34
+Number after 10 turns is :17
+Number after 11 turns is :52
+Number after 12 turns is :26
+Number after 13 turns is :13
+Number after 14 turns is :40
+Number after 15 turns is :20
+Number after 16 turns is :10
+Number after 17 turns is :5
+Number after 18 turns is :16
+Number after 19 turns is :8
+Number after 20 turns is :4
+Number after 21 turns is :2
+Number after 22 turns is :1
+Total number of Even Steps were:16
+Total number of Odd Steps were:6
+Total num of Steps were:22
+Data ended here....
+
+The data for 3n + 1 for 75 is:
+The values are obtained for 75.
+Number after 1 turns is :226
+Number after 2 turns is :113
+Number after 3 turns is :340
+Number after 4 turns is :170
+Number after 5 turns is :85
+Number after 6 turns is :256
+Number after 7 turns is :128
+Number after 8 turns is :64
+Number after 9 turns is :32
+Number after 10 turns is :16
+Number after 11 turns is :8
+Number after 12 turns is :4
+Number after 13 turns is :2
+Number after 14 turns is :1
+Total number of Even Steps were:11
+Total number of Odd Steps were:3
+Total num of Steps were:14
+Data ended here....
+
+The data for 3n + 1 for 76 is:
+The values are obtained for 76.
+Number after 1 turns is :38
+Number after 2 turns is :19
+Number after 3 turns is :58
+Number after 4 turns is :29
+Number after 5 turns is :88
+Number after 6 turns is :44
+Number after 7 turns is :22
+Number after 8 turns is :11
+Number after 9 turns is :34
+Number after 10 turns is :17
+Number after 11 turns is :52
+Number after 12 turns is :26
+Number after 13 turns is :13
+Number after 14 turns is :40
+Number after 15 turns is :20
+Number after 16 turns is :10
+Number after 17 turns is :5
+Number after 18 turns is :16
+Number after 19 turns is :8
+Number after 20 turns is :4
+Number after 21 turns is :2
+Number after 22 turns is :1
+Total number of Even Steps were:16
+Total number of Odd Steps were:6
+Total num of Steps were:22
+Data ended here....
+
+The data for 3n + 1 for 77 is:
+The values are obtained for 77.
+Number after 1 turns is :232
+Number after 2 turns is :116
+Number after 3 turns is :58
+Number after 4 turns is :29
+Number after 5 turns is :88
+Number after 6 turns is :44
+Number after 7 turns is :22
+Number after 8 turns is :11
+Number after 9 turns is :34
+Number after 10 turns is :17
+Number after 11 turns is :52
+Number after 12 turns is :26
+Number after 13 turns is :13
+Number after 14 turns is :40
+Number after 15 turns is :20
+Number after 16 turns is :10
+Number after 17 turns is :5
+Number after 18 turns is :16
+Number after 19 turns is :8
+Number after 20 turns is :4
+Number after 21 turns is :2
+Number after 22 turns is :1
+Total number of Even Steps were:16
+Total number of Odd Steps were:6
+Total num of Steps were:22
+Data ended here....
+
+The data for 3n + 1 for 78 is:
+The values are obtained for 78.
+Number after 1 turns is :39
+Number after 2 turns is :118
+Number after 3 turns is :59
+Number after 4 turns is :178
+Number after 5 turns is :89
+Number after 6 turns is :268
+Number after 7 turns is :134
+Number after 8 turns is :67
+Number after 9 turns is :202
+Number after 10 turns is :101
+Number after 11 turns is :304
+Number after 12 turns is :152
+Number after 13 turns is :76
+Number after 14 turns is :38
+Number after 15 turns is :19
+Number after 16 turns is :58
+Number after 17 turns is :29
+Number after 18 turns is :88
+Number after 19 turns is :44
+Number after 20 turns is :22
+Number after 21 turns is :11
+Number after 22 turns is :34
+Number after 23 turns is :17
+Number after 24 turns is :52
+Number after 25 turns is :26
+Number after 26 turns is :13
+Number after 27 turns is :40
+Number after 28 turns is :20
+Number after 29 turns is :10
+Number after 30 turns is :5
+Number after 31 turns is :16
+Number after 32 turns is :8
+Number after 33 turns is :4
+Number after 34 turns is :2
+Number after 35 turns is :1
+Total number of Even Steps were:24
+Total number of Odd Steps were:11
+Total num of Steps were:35
+Data ended here....
+
+The data for 3n + 1 for 79 is:
+The values are obtained for 79.
+Number after 1 turns is :238
+Number after 2 turns is :119
+Number after 3 turns is :358
+Number after 4 turns is :179
+Number after 5 turns is :538
+Number after 6 turns is :269
+Number after 7 turns is :808
+Number after 8 turns is :404
+Number after 9 turns is :202
+Number after 10 turns is :101
+Number after 11 turns is :304
+Number after 12 turns is :152
+Number after 13 turns is :76
+Number after 14 turns is :38
+Number after 15 turns is :19
+Number after 16 turns is :58
+Number after 17 turns is :29
+Number after 18 turns is :88
+Number after 19 turns is :44
+Number after 20 turns is :22
+Number after 21 turns is :11
+Number after 22 turns is :34
+Number after 23 turns is :17
+Number after 24 turns is :52
+Number after 25 turns is :26
+Number after 26 turns is :13
+Number after 27 turns is :40
+Number after 28 turns is :20
+Number after 29 turns is :10
+Number after 30 turns is :5
+Number after 31 turns is :16
+Number after 32 turns is :8
+Number after 33 turns is :4
+Number after 34 turns is :2
+Number after 35 turns is :1
+Total number of Even Steps were:24
+Total number of Odd Steps were:11
+Total num of Steps were:35
+Data ended here....
+
+The data for 3n + 1 for 80 is:
+The values are obtained for 80.
+Number after 1 turns is :40
+Number after 2 turns is :20
+Number after 3 turns is :10
+Number after 4 turns is :5
+Number after 5 turns is :16
+Number after 6 turns is :8
+Number after 7 turns is :4
+Number after 8 turns is :2
+Number after 9 turns is :1
+Total number of Even Steps were:8
+Total number of Odd Steps were:1
+Total num of Steps were:9
+Data ended here....
+
+The data for 3n + 1 for 81 is:
+The values are obtained for 81.
+Number after 1 turns is :244
+Number after 2 turns is :122
+Number after 3 turns is :61
+Number after 4 turns is :184
+Number after 5 turns is :92
+Number after 6 turns is :46
+Number after 7 turns is :23
+Number after 8 turns is :70
+Number after 9 turns is :35
+Number after 10 turns is :106
+Number after 11 turns is :53
+Number after 12 turns is :160
+Number after 13 turns is :80
+Number after 14 turns is :40
+Number after 15 turns is :20
+Number after 16 turns is :10
+Number after 17 turns is :5
+Number after 18 turns is :16
+Number after 19 turns is :8
+Number after 20 turns is :4
+Number after 21 turns is :2
+Number after 22 turns is :1
+Total number of Even Steps were:16
+Total number of Odd Steps were:6
+Total num of Steps were:22
+Data ended here....
+
+The data for 3n + 1 for 82 is:
+The values are obtained for 82.
+Number after 1 turns is :41
+Number after 2 turns is :124
+Number after 3 turns is :62
+Number after 4 turns is :31
+Number after 5 turns is :94
+Number after 6 turns is :47
+Number after 7 turns is :142
+Number after 8 turns is :71
+Number after 9 turns is :214
+Number after 10 turns is :107
+Number after 11 turns is :322
+Number after 12 turns is :161
+Number after 13 turns is :484
+Number after 14 turns is :242
+Number after 15 turns is :121
+Number after 16 turns is :364
+Number after 17 turns is :182
+Number after 18 turns is :91
+Number after 19 turns is :274
+Number after 20 turns is :137
+Number after 21 turns is :412
+Number after 22 turns is :206
+Number after 23 turns is :103
+Number after 24 turns is :310
+Number after 25 turns is :155
+Number after 26 turns is :466
+Number after 27 turns is :233
+Number after 28 turns is :700
+Number after 29 turns is :350
+Number after 30 turns is :175
+Number after 31 turns is :526
+Number after 32 turns is :263
+Number after 33 turns is :790
+Number after 34 turns is :395
+Number after 35 turns is :1186
+Number after 36 turns is :593
+Number after 37 turns is :1780
+Number after 38 turns is :890
+Number after 39 turns is :445
+Number after 40 turns is :1336
+Number after 41 turns is :668
+Number after 42 turns is :334
+Number after 43 turns is :167
+Number after 44 turns is :502
+Number after 45 turns is :251
+Number after 46 turns is :754
+Number after 47 turns is :377
+Number after 48 turns is :1132
+Number after 49 turns is :566
+Number after 50 turns is :283
+Number after 51 turns is :850
+Number after 52 turns is :425
+Number after 53 turns is :1276
+Number after 54 turns is :638
+Number after 55 turns is :319
+Number after 56 turns is :958
+Number after 57 turns is :479
+Number after 58 turns is :1438
+Number after 59 turns is :719
+Number after 60 turns is :2158
+Number after 61 turns is :1079
+Number after 62 turns is :3238
+Number after 63 turns is :1619
+Number after 64 turns is :4858
+Number after 65 turns is :2429
+Number after 66 turns is :7288
+Number after 67 turns is :3644
+Number after 68 turns is :1822
+Number after 69 turns is :911
+Number after 70 turns is :2734
+Number after 71 turns is :1367
+Number after 72 turns is :4102
+Number after 73 turns is :2051
+Number after 74 turns is :6154
+Number after 75 turns is :3077
+Number after 76 turns is :9232
+Number after 77 turns is :4616
+Number after 78 turns is :2308
+Number after 79 turns is :1154
+Number after 80 turns is :577
+Number after 81 turns is :1732
+Number after 82 turns is :866
+Number after 83 turns is :433
+Number after 84 turns is :1300
+Number after 85 turns is :650
+Number after 86 turns is :325
+Number after 87 turns is :976
+Number after 88 turns is :488
+Number after 89 turns is :244
+Number after 90 turns is :122
+Number after 91 turns is :61
+Number after 92 turns is :184
+Number after 93 turns is :92
+Number after 94 turns is :46
+Number after 95 turns is :23
+Number after 96 turns is :70
+Number after 97 turns is :35
+Number after 98 turns is :106
+Number after 99 turns is :53
+Number after 100 turns is :160
+Number after 101 turns is :80
+Number after 102 turns is :40
+Number after 103 turns is :20
+Number after 104 turns is :10
+Number after 105 turns is :5
+Number after 106 turns is :16
+Number after 107 turns is :8
+Number after 108 turns is :4
+Number after 109 turns is :2
+Number after 110 turns is :1
+Total number of Even Steps were:70
+Total number of Odd Steps were:40
+Total num of Steps were:110
+Data ended here....
+
+The data for 3n + 1 for 83 is:
+The values are obtained for 83.
+Number after 1 turns is :250
+Number after 2 turns is :125
+Number after 3 turns is :376
+Number after 4 turns is :188
+Number after 5 turns is :94
+Number after 6 turns is :47
+Number after 7 turns is :142
+Number after 8 turns is :71
+Number after 9 turns is :214
+Number after 10 turns is :107
+Number after 11 turns is :322
+Number after 12 turns is :161
+Number after 13 turns is :484
+Number after 14 turns is :242
+Number after 15 turns is :121
+Number after 16 turns is :364
+Number after 17 turns is :182
+Number after 18 turns is :91
+Number after 19 turns is :274
+Number after 20 turns is :137
+Number after 21 turns is :412
+Number after 22 turns is :206
+Number after 23 turns is :103
+Number after 24 turns is :310
+Number after 25 turns is :155
+Number after 26 turns is :466
+Number after 27 turns is :233
+Number after 28 turns is :700
+Number after 29 turns is :350
+Number after 30 turns is :175
+Number after 31 turns is :526
+Number after 32 turns is :263
+Number after 33 turns is :790
+Number after 34 turns is :395
+Number after 35 turns is :1186
+Number after 36 turns is :593
+Number after 37 turns is :1780
+Number after 38 turns is :890
+Number after 39 turns is :445
+Number after 40 turns is :1336
+Number after 41 turns is :668
+Number after 42 turns is :334
+Number after 43 turns is :167
+Number after 44 turns is :502
+Number after 45 turns is :251
+Number after 46 turns is :754
+Number after 47 turns is :377
+Number after 48 turns is :1132
+Number after 49 turns is :566
+Number after 50 turns is :283
+Number after 51 turns is :850
+Number after 52 turns is :425
+Number after 53 turns is :1276
+Number after 54 turns is :638
+Number after 55 turns is :319
+Number after 56 turns is :958
+Number after 57 turns is :479
+Number after 58 turns is :1438
+Number after 59 turns is :719
+Number after 60 turns is :2158
+Number after 61 turns is :1079
+Number after 62 turns is :3238
+Number after 63 turns is :1619
+Number after 64 turns is :4858
+Number after 65 turns is :2429
+Number after 66 turns is :7288
+Number after 67 turns is :3644
+Number after 68 turns is :1822
+Number after 69 turns is :911
+Number after 70 turns is :2734
+Number after 71 turns is :1367
+Number after 72 turns is :4102
+Number after 73 turns is :2051
+Number after 74 turns is :6154
+Number after 75 turns is :3077
+Number after 76 turns is :9232
+Number after 77 turns is :4616
+Number after 78 turns is :2308
+Number after 79 turns is :1154
+Number after 80 turns is :577
+Number after 81 turns is :1732
+Number after 82 turns is :866
+Number after 83 turns is :433
+Number after 84 turns is :1300
+Number after 85 turns is :650
+Number after 86 turns is :325
+Number after 87 turns is :976
+Number after 88 turns is :488
+Number after 89 turns is :244
+Number after 90 turns is :122
+Number after 91 turns is :61
+Number after 92 turns is :184
+Number after 93 turns is :92
+Number after 94 turns is :46
+Number after 95 turns is :23
+Number after 96 turns is :70
+Number after 97 turns is :35
+Number after 98 turns is :106
+Number after 99 turns is :53
+Number after 100 turns is :160
+Number after 101 turns is :80
+Number after 102 turns is :40
+Number after 103 turns is :20
+Number after 104 turns is :10
+Number after 105 turns is :5
+Number after 106 turns is :16
+Number after 107 turns is :8
+Number after 108 turns is :4
+Number after 109 turns is :2
+Number after 110 turns is :1
+Total number of Even Steps were:70
+Total number of Odd Steps were:40
+Total num of Steps were:110
+Data ended here....
+
+The data for 3n + 1 for 84 is:
+The values are obtained for 84.
+Number after 1 turns is :42
+Number after 2 turns is :21
+Number after 3 turns is :64
+Number after 4 turns is :32
+Number after 5 turns is :16
+Number after 6 turns is :8
+Number after 7 turns is :4
+Number after 8 turns is :2
+Number after 9 turns is :1
+Total number of Even Steps were:8
+Total number of Odd Steps were:1
+Total num of Steps were:9
+Data ended here....
+
+The data for 3n + 1 for 85 is:
+The values are obtained for 85.
+Number after 1 turns is :256
+Number after 2 turns is :128
+Number after 3 turns is :64
+Number after 4 turns is :32
+Number after 5 turns is :16
+Number after 6 turns is :8
+Number after 7 turns is :4
+Number after 8 turns is :2
+Number after 9 turns is :1
+Total number of Even Steps were:8
+Total number of Odd Steps were:1
+Total num of Steps were:9
+Data ended here....
+
+The data for 3n + 1 for 86 is:
+The values are obtained for 86.
+Number after 1 turns is :43
+Number after 2 turns is :130
+Number after 3 turns is :65
+Number after 4 turns is :196
+Number after 5 turns is :98
+Number after 6 turns is :49
+Number after 7 turns is :148
+Number after 8 turns is :74
+Number after 9 turns is :37
+Number after 10 turns is :112
+Number after 11 turns is :56
+Number after 12 turns is :28
+Number after 13 turns is :14
+Number after 14 turns is :7
+Number after 15 turns is :22
+Number after 16 turns is :11
+Number after 17 turns is :34
+Number after 18 turns is :17
+Number after 19 turns is :52
+Number after 20 turns is :26
+Number after 21 turns is :13
+Number after 22 turns is :40
+Number after 23 turns is :20
+Number after 24 turns is :10
+Number after 25 turns is :5
+Number after 26 turns is :16
+Number after 27 turns is :8
+Number after 28 turns is :4
+Number after 29 turns is :2
+Number after 30 turns is :1
+Total number of Even Steps were:21
+Total number of Odd Steps were:9
+Total num of Steps were:30
+Data ended here....
+
+The data for 3n + 1 for 87 is:
+The values are obtained for 87.
+Number after 1 turns is :262
+Number after 2 turns is :131
+Number after 3 turns is :394
+Number after 4 turns is :197
+Number after 5 turns is :592
+Number after 6 turns is :296
+Number after 7 turns is :148
+Number after 8 turns is :74
+Number after 9 turns is :37
+Number after 10 turns is :112
+Number after 11 turns is :56
+Number after 12 turns is :28
+Number after 13 turns is :14
+Number after 14 turns is :7
+Number after 15 turns is :22
+Number after 16 turns is :11
+Number after 17 turns is :34
+Number after 18 turns is :17
+Number after 19 turns is :52
+Number after 20 turns is :26
+Number after 21 turns is :13
+Number after 22 turns is :40
+Number after 23 turns is :20
+Number after 24 turns is :10
+Number after 25 turns is :5
+Number after 26 turns is :16
+Number after 27 turns is :8
+Number after 28 turns is :4
+Number after 29 turns is :2
+Number after 30 turns is :1
+Total number of Even Steps were:21
+Total number of Odd Steps were:9
+Total num of Steps were:30
+Data ended here....
+
+The data for 3n + 1 for 88 is:
+The values are obtained for 88.
+Number after 1 turns is :44
+Number after 2 turns is :22
+Number after 3 turns is :11
+Number after 4 turns is :34
+Number after 5 turns is :17
+Number after 6 turns is :52
+Number after 7 turns is :26
+Number after 8 turns is :13
+Number after 9 turns is :40
+Number after 10 turns is :20
+Number after 11 turns is :10
+Number after 12 turns is :5
+Number after 13 turns is :16
+Number after 14 turns is :8
+Number after 15 turns is :4
+Number after 16 turns is :2
+Number after 17 turns is :1
+Total number of Even Steps were:13
+Total number of Odd Steps were:4
+Total num of Steps were:17
+Data ended here....
+
+The data for 3n + 1 for 89 is:
+The values are obtained for 89.
+Number after 1 turns is :268
+Number after 2 turns is :134
+Number after 3 turns is :67
+Number after 4 turns is :202
+Number after 5 turns is :101
+Number after 6 turns is :304
+Number after 7 turns is :152
+Number after 8 turns is :76
+Number after 9 turns is :38
+Number after 10 turns is :19
+Number after 11 turns is :58
+Number after 12 turns is :29
+Number after 13 turns is :88
+Number after 14 turns is :44
+Number after 15 turns is :22
+Number after 16 turns is :11
+Number after 17 turns is :34
+Number after 18 turns is :17
+Number after 19 turns is :52
+Number after 20 turns is :26
+Number after 21 turns is :13
+Number after 22 turns is :40
+Number after 23 turns is :20
+Number after 24 turns is :10
+Number after 25 turns is :5
+Number after 26 turns is :16
+Number after 27 turns is :8
+Number after 28 turns is :4
+Number after 29 turns is :2
+Number after 30 turns is :1
+Total number of Even Steps were:21
+Total number of Odd Steps were:9
+Total num of Steps were:30
+Data ended here....
+
+The data for 3n + 1 for 90 is:
+The values are obtained for 90.
+Number after 1 turns is :45
+Number after 2 turns is :136
+Number after 3 turns is :68
+Number after 4 turns is :34
+Number after 5 turns is :17
+Number after 6 turns is :52
+Number after 7 turns is :26
+Number after 8 turns is :13
+Number after 9 turns is :40
+Number after 10 turns is :20
+Number after 11 turns is :10
+Number after 12 turns is :5
+Number after 13 turns is :16
+Number after 14 turns is :8
+Number after 15 turns is :4
+Number after 16 turns is :2
+Number after 17 turns is :1
+Total number of Even Steps were:13
+Total number of Odd Steps were:4
+Total num of Steps were:17
+Data ended here....
+
+The data for 3n + 1 for 91 is:
+The values are obtained for 91.
+Number after 1 turns is :274
+Number after 2 turns is :137
+Number after 3 turns is :412
+Number after 4 turns is :206
+Number after 5 turns is :103
+Number after 6 turns is :310
+Number after 7 turns is :155
+Number after 8 turns is :466
+Number after 9 turns is :233
+Number after 10 turns is :700
+Number after 11 turns is :350
+Number after 12 turns is :175
+Number after 13 turns is :526
+Number after 14 turns is :263
+Number after 15 turns is :790
+Number after 16 turns is :395
+Number after 17 turns is :1186
+Number after 18 turns is :593
+Number after 19 turns is :1780
+Number after 20 turns is :890
+Number after 21 turns is :445
+Number after 22 turns is :1336
+Number after 23 turns is :668
+Number after 24 turns is :334
+Number after 25 turns is :167
+Number after 26 turns is :502
+Number after 27 turns is :251
+Number after 28 turns is :754
+Number after 29 turns is :377
+Number after 30 turns is :1132
+Number after 31 turns is :566
+Number after 32 turns is :283
+Number after 33 turns is :850
+Number after 34 turns is :425
+Number after 35 turns is :1276
+Number after 36 turns is :638
+Number after 37 turns is :319
+Number after 38 turns is :958
+Number after 39 turns is :479
+Number after 40 turns is :1438
+Number after 41 turns is :719
+Number after 42 turns is :2158
+Number after 43 turns is :1079
+Number after 44 turns is :3238
+Number after 45 turns is :1619
+Number after 46 turns is :4858
+Number after 47 turns is :2429
+Number after 48 turns is :7288
+Number after 49 turns is :3644
+Number after 50 turns is :1822
+Number after 51 turns is :911
+Number after 52 turns is :2734
+Number after 53 turns is :1367
+Number after 54 turns is :4102
+Number after 55 turns is :2051
+Number after 56 turns is :6154
+Number after 57 turns is :3077
+Number after 58 turns is :9232
+Number after 59 turns is :4616
+Number after 60 turns is :2308
+Number after 61 turns is :1154
+Number after 62 turns is :577
+Number after 63 turns is :1732
+Number after 64 turns is :866
+Number after 65 turns is :433
+Number after 66 turns is :1300
+Number after 67 turns is :650
+Number after 68 turns is :325
+Number after 69 turns is :976
+Number after 70 turns is :488
+Number after 71 turns is :244
+Number after 72 turns is :122
+Number after 73 turns is :61
+Number after 74 turns is :184
+Number after 75 turns is :92
+Number after 76 turns is :46
+Number after 77 turns is :23
+Number after 78 turns is :70
+Number after 79 turns is :35
+Number after 80 turns is :106
+Number after 81 turns is :53
+Number after 82 turns is :160
+Number after 83 turns is :80
+Number after 84 turns is :40
+Number after 85 turns is :20
+Number after 86 turns is :10
+Number after 87 turns is :5
+Number after 88 turns is :16
+Number after 89 turns is :8
+Number after 90 turns is :4
+Number after 91 turns is :2
+Number after 92 turns is :1
+Total number of Even Steps were:59
+Total number of Odd Steps were:33
+Total num of Steps were:92
+Data ended here....
+
+The data for 3n + 1 for 92 is:
+The values are obtained for 92.
+Number after 1 turns is :46
+Number after 2 turns is :23
+Number after 3 turns is :70
+Number after 4 turns is :35
+Number after 5 turns is :106
+Number after 6 turns is :53
+Number after 7 turns is :160
+Number after 8 turns is :80
+Number after 9 turns is :40
+Number after 10 turns is :20
+Number after 11 turns is :10
+Number after 12 turns is :5
+Number after 13 turns is :16
+Number after 14 turns is :8
+Number after 15 turns is :4
+Number after 16 turns is :2
+Number after 17 turns is :1
+Total number of Even Steps were:13
+Total number of Odd Steps were:4
+Total num of Steps were:17
+Data ended here....
+
+The data for 3n + 1 for 93 is:
+The values are obtained for 93.
+Number after 1 turns is :280
+Number after 2 turns is :140
+Number after 3 turns is :70
+Number after 4 turns is :35
+Number after 5 turns is :106
+Number after 6 turns is :53
+Number after 7 turns is :160
+Number after 8 turns is :80
+Number after 9 turns is :40
+Number after 10 turns is :20
+Number after 11 turns is :10
+Number after 12 turns is :5
+Number after 13 turns is :16
+Number after 14 turns is :8
+Number after 15 turns is :4
+Number after 16 turns is :2
+Number after 17 turns is :1
+Total number of Even Steps were:13
+Total number of Odd Steps were:4
+Total num of Steps were:17
+Data ended here....
+
+The data for 3n + 1 for 94 is:
+The values are obtained for 94.
+Number after 1 turns is :47
+Number after 2 turns is :142
+Number after 3 turns is :71
+Number after 4 turns is :214
+Number after 5 turns is :107
+Number after 6 turns is :322
+Number after 7 turns is :161
+Number after 8 turns is :484
+Number after 9 turns is :242
+Number after 10 turns is :121
+Number after 11 turns is :364
+Number after 12 turns is :182
+Number after 13 turns is :91
+Number after 14 turns is :274
+Number after 15 turns is :137
+Number after 16 turns is :412
+Number after 17 turns is :206
+Number after 18 turns is :103
+Number after 19 turns is :310
+Number after 20 turns is :155
+Number after 21 turns is :466
+Number after 22 turns is :233
+Number after 23 turns is :700
+Number after 24 turns is :350
+Number after 25 turns is :175
+Number after 26 turns is :526
+Number after 27 turns is :263
+Number after 28 turns is :790
+Number after 29 turns is :395
+Number after 30 turns is :1186
+Number after 31 turns is :593
+Number after 32 turns is :1780
+Number after 33 turns is :890
+Number after 34 turns is :445
+Number after 35 turns is :1336
+Number after 36 turns is :668
+Number after 37 turns is :334
+Number after 38 turns is :167
+Number after 39 turns is :502
+Number after 40 turns is :251
+Number after 41 turns is :754
+Number after 42 turns is :377
+Number after 43 turns is :1132
+Number after 44 turns is :566
+Number after 45 turns is :283
+Number after 46 turns is :850
+Number after 47 turns is :425
+Number after 48 turns is :1276
+Number after 49 turns is :638
+Number after 50 turns is :319
+Number after 51 turns is :958
+Number after 52 turns is :479
+Number after 53 turns is :1438
+Number after 54 turns is :719
+Number after 55 turns is :2158
+Number after 56 turns is :1079
+Number after 57 turns is :3238
+Number after 58 turns is :1619
+Number after 59 turns is :4858
+Number after 60 turns is :2429
+Number after 61 turns is :7288
+Number after 62 turns is :3644
+Number after 63 turns is :1822
+Number after 64 turns is :911
+Number after 65 turns is :2734
+Number after 66 turns is :1367
+Number after 67 turns is :4102
+Number after 68 turns is :2051
+Number after 69 turns is :6154
+Number after 70 turns is :3077
+Number after 71 turns is :9232
+Number after 72 turns is :4616
+Number after 73 turns is :2308
+Number after 74 turns is :1154
+Number after 75 turns is :577
+Number after 76 turns is :1732
+Number after 77 turns is :866
+Number after 78 turns is :433
+Number after 79 turns is :1300
+Number after 80 turns is :650
+Number after 81 turns is :325
+Number after 82 turns is :976
+Number after 83 turns is :488
+Number after 84 turns is :244
+Number after 85 turns is :122
+Number after 86 turns is :61
+Number after 87 turns is :184
+Number after 88 turns is :92
+Number after 89 turns is :46
+Number after 90 turns is :23
+Number after 91 turns is :70
+Number after 92 turns is :35
+Number after 93 turns is :106
+Number after 94 turns is :53
+Number after 95 turns is :160
+Number after 96 turns is :80
+Number after 97 turns is :40
+Number after 98 turns is :20
+Number after 99 turns is :10
+Number after 100 turns is :5
+Number after 101 turns is :16
+Number after 102 turns is :8
+Number after 103 turns is :4
+Number after 104 turns is :2
+Number after 105 turns is :1
+Total number of Even Steps were:67
+Total number of Odd Steps were:38
+Total num of Steps were:105
+Data ended here....
+
+The data for 3n + 1 for 95 is:
+The values are obtained for 95.
+Number after 1 turns is :286
+Number after 2 turns is :143
+Number after 3 turns is :430
+Number after 4 turns is :215
+Number after 5 turns is :646
+Number after 6 turns is :323
+Number after 7 turns is :970
+Number after 8 turns is :485
+Number after 9 turns is :1456
+Number after 10 turns is :728
+Number after 11 turns is :364
+Number after 12 turns is :182
+Number after 13 turns is :91
+Number after 14 turns is :274
+Number after 15 turns is :137
+Number after 16 turns is :412
+Number after 17 turns is :206
+Number after 18 turns is :103
+Number after 19 turns is :310
+Number after 20 turns is :155
+Number after 21 turns is :466
+Number after 22 turns is :233
+Number after 23 turns is :700
+Number after 24 turns is :350
+Number after 25 turns is :175
+Number after 26 turns is :526
+Number after 27 turns is :263
+Number after 28 turns is :790
+Number after 29 turns is :395
+Number after 30 turns is :1186
+Number after 31 turns is :593
+Number after 32 turns is :1780
+Number after 33 turns is :890
+Number after 34 turns is :445
+Number after 35 turns is :1336
+Number after 36 turns is :668
+Number after 37 turns is :334
+Number after 38 turns is :167
+Number after 39 turns is :502
+Number after 40 turns is :251
+Number after 41 turns is :754
+Number after 42 turns is :377
+Number after 43 turns is :1132
+Number after 44 turns is :566
+Number after 45 turns is :283
+Number after 46 turns is :850
+Number after 47 turns is :425
+Number after 48 turns is :1276
+Number after 49 turns is :638
+Number after 50 turns is :319
+Number after 51 turns is :958
+Number after 52 turns is :479
+Number after 53 turns is :1438
+Number after 54 turns is :719
+Number after 55 turns is :2158
+Number after 56 turns is :1079
+Number after 57 turns is :3238
+Number after 58 turns is :1619
+Number after 59 turns is :4858
+Number after 60 turns is :2429
+Number after 61 turns is :7288
+Number after 62 turns is :3644
+Number after 63 turns is :1822
+Number after 64 turns is :911
+Number after 65 turns is :2734
+Number after 66 turns is :1367
+Number after 67 turns is :4102
+Number after 68 turns is :2051
+Number after 69 turns is :6154
+Number after 70 turns is :3077
+Number after 71 turns is :9232
+Number after 72 turns is :4616
+Number after 73 turns is :2308
+Number after 74 turns is :1154
+Number after 75 turns is :577
+Number after 76 turns is :1732
+Number after 77 turns is :866
+Number after 78 turns is :433
+Number after 79 turns is :1300
+Number after 80 turns is :650
+Number after 81 turns is :325
+Number after 82 turns is :976
+Number after 83 turns is :488
+Number after 84 turns is :244
+Number after 85 turns is :122
+Number after 86 turns is :61
+Number after 87 turns is :184
+Number after 88 turns is :92
+Number after 89 turns is :46
+Number after 90 turns is :23
+Number after 91 turns is :70
+Number after 92 turns is :35
+Number after 93 turns is :106
+Number after 94 turns is :53
+Number after 95 turns is :160
+Number after 96 turns is :80
+Number after 97 turns is :40
+Number after 98 turns is :20
+Number after 99 turns is :10
+Number after 100 turns is :5
+Number after 101 turns is :16
+Number after 102 turns is :8
+Number after 103 turns is :4
+Number after 104 turns is :2
+Number after 105 turns is :1
+Total number of Even Steps were:67
+Total number of Odd Steps were:38
+Total num of Steps were:105
+Data ended here....
+
+The data for 3n + 1 for 96 is:
+The values are obtained for 96.
+Number after 1 turns is :48
+Number after 2 turns is :24
+Number after 3 turns is :12
+Number after 4 turns is :6
+Number after 5 turns is :3
+Number after 6 turns is :10
+Number after 7 turns is :5
+Number after 8 turns is :16
+Number after 9 turns is :8
+Number after 10 turns is :4
+Number after 11 turns is :2
+Number after 12 turns is :1
+Total number of Even Steps were:10
+Total number of Odd Steps were:2
+Total num of Steps were:12
+Data ended here....
+
+The data for 3n + 1 for 97 is:
+The values are obtained for 97.
+Number after 1 turns is :292
+Number after 2 turns is :146
+Number after 3 turns is :73
+Number after 4 turns is :220
+Number after 5 turns is :110
+Number after 6 turns is :55
+Number after 7 turns is :166
+Number after 8 turns is :83
+Number after 9 turns is :250
+Number after 10 turns is :125
+Number after 11 turns is :376
+Number after 12 turns is :188
+Number after 13 turns is :94
+Number after 14 turns is :47
+Number after 15 turns is :142
+Number after 16 turns is :71
+Number after 17 turns is :214
+Number after 18 turns is :107
+Number after 19 turns is :322
+Number after 20 turns is :161
+Number after 21 turns is :484
+Number after 22 turns is :242
+Number after 23 turns is :121
+Number after 24 turns is :364
+Number after 25 turns is :182
+Number after 26 turns is :91
+Number after 27 turns is :274
+Number after 28 turns is :137
+Number after 29 turns is :412
+Number after 30 turns is :206
+Number after 31 turns is :103
+Number after 32 turns is :310
+Number after 33 turns is :155
+Number after 34 turns is :466
+Number after 35 turns is :233
+Number after 36 turns is :700
+Number after 37 turns is :350
+Number after 38 turns is :175
+Number after 39 turns is :526
+Number after 40 turns is :263
+Number after 41 turns is :790
+Number after 42 turns is :395
+Number after 43 turns is :1186
+Number after 44 turns is :593
+Number after 45 turns is :1780
+Number after 46 turns is :890
+Number after 47 turns is :445
+Number after 48 turns is :1336
+Number after 49 turns is :668
+Number after 50 turns is :334
+Number after 51 turns is :167
+Number after 52 turns is :502
+Number after 53 turns is :251
+Number after 54 turns is :754
+Number after 55 turns is :377
+Number after 56 turns is :1132
+Number after 57 turns is :566
+Number after 58 turns is :283
+Number after 59 turns is :850
+Number after 60 turns is :425
+Number after 61 turns is :1276
+Number after 62 turns is :638
+Number after 63 turns is :319
+Number after 64 turns is :958
+Number after 65 turns is :479
+Number after 66 turns is :1438
+Number after 67 turns is :719
+Number after 68 turns is :2158
+Number after 69 turns is :1079
+Number after 70 turns is :3238
+Number after 71 turns is :1619
+Number after 72 turns is :4858
+Number after 73 turns is :2429
+Number after 74 turns is :7288
+Number after 75 turns is :3644
+Number after 76 turns is :1822
+Number after 77 turns is :911
+Number after 78 turns is :2734
+Number after 79 turns is :1367
+Number after 80 turns is :4102
+Number after 81 turns is :2051
+Number after 82 turns is :6154
+Number after 83 turns is :3077
+Number after 84 turns is :9232
+Number after 85 turns is :4616
+Number after 86 turns is :2308
+Number after 87 turns is :1154
+Number after 88 turns is :577
+Number after 89 turns is :1732
+Number after 90 turns is :866
+Number after 91 turns is :433
+Number after 92 turns is :1300
+Number after 93 turns is :650
+Number after 94 turns is :325
+Number after 95 turns is :976
+Number after 96 turns is :488
+Number after 97 turns is :244
+Number after 98 turns is :122
+Number after 99 turns is :61
+Number after 100 turns is :184
+Number after 101 turns is :92
+Number after 102 turns is :46
+Number after 103 turns is :23
+Number after 104 turns is :70
+Number after 105 turns is :35
+Number after 106 turns is :106
+Number after 107 turns is :53
+Number after 108 turns is :160
+Number after 109 turns is :80
+Number after 110 turns is :40
+Number after 111 turns is :20
+Number after 112 turns is :10
+Number after 113 turns is :5
+Number after 114 turns is :16
+Number after 115 turns is :8
+Number after 116 turns is :4
+Number after 117 turns is :2
+Number after 118 turns is :1
+Total number of Even Steps were:75
+Total number of Odd Steps were:43
+Total num of Steps were:118
+Data ended here....
+
+The data for 3n + 1 for 98 is:
+The values are obtained for 98.
+Number after 1 turns is :49
+Number after 2 turns is :148
+Number after 3 turns is :74
+Number after 4 turns is :37
+Number after 5 turns is :112
+Number after 6 turns is :56
+Number after 7 turns is :28
+Number after 8 turns is :14
+Number after 9 turns is :7
+Number after 10 turns is :22
+Number after 11 turns is :11
+Number after 12 turns is :34
+Number after 13 turns is :17
+Number after 14 turns is :52
+Number after 15 turns is :26
+Number after 16 turns is :13
+Number after 17 turns is :40
+Number after 18 turns is :20
+Number after 19 turns is :10
+Number after 20 turns is :5
+Number after 21 turns is :16
+Number after 22 turns is :8
+Number after 23 turns is :4
+Number after 24 turns is :2
+Number after 25 turns is :1
+Total number of Even Steps were:18
+Total number of Odd Steps were:7
+Total num of Steps were:25
+Data ended here....
+
+The data for 3n + 1 for 99 is:
+The values are obtained for 99.
+Number after 1 turns is :298
+Number after 2 turns is :149
+Number after 3 turns is :448
+Number after 4 turns is :224
+Number after 5 turns is :112
+Number after 6 turns is :56
+Number after 7 turns is :28
+Number after 8 turns is :14
+Number after 9 turns is :7
+Number after 10 turns is :22
+Number after 11 turns is :11
+Number after 12 turns is :34
+Number after 13 turns is :17
+Number after 14 turns is :52
+Number after 15 turns is :26
+Number after 16 turns is :13
+Number after 17 turns is :40
+Number after 18 turns is :20
+Number after 19 turns is :10
+Number after 20 turns is :5
+Number after 21 turns is :16
+Number after 22 turns is :8
+Number after 23 turns is :4
+Number after 24 turns is :2
+Number after 25 turns is :1
+Total number of Even Steps were:18
+Total number of Odd Steps were:7
+Total num of Steps were:25
+Data ended here....
+
+The data for 3n + 1 for 100 is:
+The values are obtained for 100.
+Number after 1 turns is :50
+Number after 2 turns is :25
+Number after 3 turns is :76
+Number after 4 turns is :38
+Number after 5 turns is :19
+Number after 6 turns is :58
+Number after 7 turns is :29
+Number after 8 turns is :88
+Number after 9 turns is :44
+Number after 10 turns is :22
+Number after 11 turns is :11
+Number after 12 turns is :34
+Number after 13 turns is :17
+Number after 14 turns is :52
+Number after 15 turns is :26
+Number after 16 turns is :13
+Number after 17 turns is :40
+Number after 18 turns is :20
+Number after 19 turns is :10
+Number after 20 turns is :5
+Number after 21 turns is :16
+Number after 22 turns is :8
+Number after 23 turns is :4
+Number after 24 turns is :2
+Number after 25 turns is :1
+Total number of Even Steps were:18
+Total number of Odd Steps were:7
+Total num of Steps were:25
+Data ended here....
+
